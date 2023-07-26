@@ -21,9 +21,28 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
 <!-- Sidebar/menu -->
 <nav class="w3-sidebar w3-bar-block w3-white w3-animate-left w3-text-grey w3-collapse w3-top w3-center" style="z-index:3;width:300px;font-weight:bold" id="mySidebar"><br>
   <img src=".\Bilder\KleinerFingerSchwuhr.jpg" style="width:75%" class="w3-padding-64 w3-center">
+  <h5 style="font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif">Zusammen seit:</h5>
+  <h3 id="countup" style="text-align:center; font-size: 15px; font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;"></h3>
   <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5Qaygmf7CVxjQfXZF5GaRI?utm_source=generator" width="75%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
   <br><script language="JavaScript" src="https://www.besucherzaehler-kostenlos.de/js/counter.js.php?count=1&id=chrisomaticus.github.io&start=0&design=1c"></script>
+  <script>
+    // Setzen Sie das Anfangsdatum
+    
+    var startDate = new Date("Mar 24, 2022 22:45:00").getTime();
 
+    var countdownfunction = setInterval(function() {
+        var now = new Date().getTime();
+        var distance = now - startDate;
+
+        var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+        var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+        var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+        var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+        document.getElementById("countup").innerHTML = days + "T " + hours + "H "
+        + minutes + "Min " + seconds + "Sek";
+    }, 1000);
+</script>
 
 </nav>
 
