@@ -1,0 +1,4708 @@
+[
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBARCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "_0_iNr5UskmGidA5Iz1-iZcAOSpT",
+    "title": "[TEST] Powerautomate Aufgabeerstellung ",
+    "orderHint": "8585107444827359334",
+    "assigneePriority": "",
+    "percentComplete": 0,
+    "createdDateTime": "2023-08-01T04:00:02.7416473Z",
+    "hasDescription": false,
+    "previewType": "automatic",
+    "referenceCount": 0,
+    "checklistItemCount": 0,
+    "activeChecklistItemCount": 0,
+    "priority": 5,
+    "id": "Y6iS5QI-A02TiSZ02UWtMpcAMkrH",
+    "createdBy": {
+      "user": {
+        "id": "d3b8fe93-86cb-4e0b-9572-2eea856e738a"
+      },
+      "application": {
+        "displayName": null,
+        "id": "7ab7862c-4c57-491e-8a45-d52a7e023983"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {},
+    "_assignments": []
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBARCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "_0_iNr5UskmGidA5Iz1-iZcAOSpT",
+    "title": "[TEST] Powerautomate Aufgabeerstellung ",
+    "orderHint": "8585107588843885146",
+    "assigneePriority": "",
+    "percentComplete": 0,
+    "createdDateTime": "2023-08-01T00:00:01.0890661Z",
+    "hasDescription": false,
+    "previewType": "automatic",
+    "referenceCount": 0,
+    "checklistItemCount": 0,
+    "activeChecklistItemCount": 0,
+    "priority": 5,
+    "id": "Nn-E576VLU6-SGnjrlrKmpcACokD",
+    "createdBy": {
+      "user": {
+        "id": "d3b8fe93-86cb-4e0b-9572-2eea856e738a"
+      },
+      "application": {
+        "displayName": null,
+        "id": "7ab7862c-4c57-491e-8a45-d52a7e023983"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {},
+    "_assignments": []
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBARCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "_0_iNr5UskmGidA5Iz1-iZcAOSpT",
+    "title": "[TEST] Powerautomate Aufgabeerstellung ",
+    "orderHint": "8585107732834346310",
+    "assigneePriority": "",
+    "percentComplete": 0,
+    "createdDateTime": "2023-07-31T20:00:02.0429497Z",
+    "hasDescription": false,
+    "previewType": "automatic",
+    "referenceCount": 0,
+    "checklistItemCount": 0,
+    "activeChecklistItemCount": 0,
+    "priority": 5,
+    "id": "qG2JA32ptk2ZuOkTNKEThZcAFy24",
+    "createdBy": {
+      "user": {
+        "id": "d3b8fe93-86cb-4e0b-9572-2eea856e738a"
+      },
+      "application": {
+        "displayName": null,
+        "id": "7ab7862c-4c57-491e-8a45-d52a7e023983"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {},
+    "_assignments": []
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBARCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "_0_iNr5UskmGidA5Iz1-iZcAOSpT",
+    "title": "[TEST] Powerautomate Aufgabeerstellung ",
+    "orderHint": "8585107847226842333",
+    "assigneePriority": "",
+    "percentComplete": 0,
+    "createdDateTime": "2023-07-31T16:49:22.7933474Z",
+    "hasDescription": false,
+    "previewType": "automatic",
+    "referenceCount": 0,
+    "checklistItemCount": 0,
+    "activeChecklistItemCount": 0,
+    "priority": 5,
+    "id": "GwJ-CDpMEEmv5eI7WtFfbpcAJLPE",
+    "createdBy": {
+      "user": {
+        "id": "d3b8fe93-86cb-4e0b-9572-2eea856e738a"
+      },
+      "application": {
+        "displayName": null,
+        "id": "7ab7862c-4c57-491e-8a45-d52a7e023983"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {},
+    "_assignments": []
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBESCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "_0_iNr5UskmGidA5Iz1-iZcAOSpT",
+    "title": "Automatisiertes Abrufen der recommendations",
+    "orderHint": "8585107955555300201PD",
+    "assigneePriority": "8585107954898014797",
+    "percentComplete": 0,
+    "createdDateTime": "2023-07-31T13:49:49.9944415Z",
+    "hasDescription": true,
+    "previewType": "checklist",
+    "referenceCount": 0,
+    "checklistItemCount": 6,
+    "activeChecklistItemCount": 5,
+    "conversationThreadId": "AAQkADljMmQ0NmM0LWVmMWYtNDEwNy05ZTFjLWQ3M2NkYmIxOGFiYQMkABAA5QMMOU72jEeXzF2P84NaTRAA5QMMOU72jEeXzF2P84NaTQ==",
+    "priority": 5,
+    "id": "6-NMLxvQaE-LiTjcNi6tBZcAGQn7",
+    "createdBy": {
+      "user": {
+        "id": "d3b8fe93-86cb-4e0b-9572-2eea856e738a"
+      },
+      "application": {
+        "displayName": null,
+        "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {
+      "d3b8fe93-86cb-4e0b-9572-2eea856e738a": {
+        "@odata.type": "#microsoft.graph.plannerAssignment",
+        "assignedDateTime": "2023-07-31T13:49:55.676101Z",
+        "orderHint": "8585107955498171124PI",
+        "assignedBy": {
+          "user": {
+            "displayName": null,
+            "id": "d3b8fe93-86cb-4e0b-9572-2eea856e738a"
+          },
+          "application": {
+            "displayName": null,
+            "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+          }
+        }
+      }
+    },
+    "_assignments": [
+      {
+        "userId": "d3b8fe93-86cb-4e0b-9572-2eea856e738a",
+        "value": {
+          "@odata.type": "#microsoft.graph.plannerAssignment",
+          "assignedDateTime": "2023-07-31T13:49:55.676101Z",
+          "orderHint": "8585107955498171124PI",
+          "assignedBy": {
+            "user": {
+              "id": "d3b8fe93-86cb-4e0b-9572-2eea856e738a"
+            },
+            "application": {
+              "displayName": null,
+              "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBAZCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "_0_iNr5UskmGidA5Iz1-iZcAOSpT",
+    "title": "Softwareupdates",
+    "orderHint": "8585107957776364953P+",
+    "assigneePriority": "",
+    "percentComplete": 0,
+    "createdDateTime": "2023-07-31T13:46:07.8567111Z",
+    "hasDescription": false,
+    "previewType": "checklist",
+    "referenceCount": 0,
+    "checklistItemCount": 8,
+    "activeChecklistItemCount": 8,
+    "priority": 5,
+    "id": "DKkIxkGirUOGEZoqbicdzZcAAaBD",
+    "createdBy": {
+      "user": {
+        "id": "d3b8fe93-86cb-4e0b-9572-2eea856e738a"
+      },
+      "application": {
+        "displayName": null,
+        "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {},
+    "_assignments": []
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBATCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "XdmCY7UA5U21c85rcrJ2B5cAOJQ8",
+    "title": "Schulung AZ-500",
+    "orderHint": "8585112539987774683PS",
+    "assigneePriority": "8585112539387462147",
+    "percentComplete": 50,
+    "createdDateTime": "2023-07-26T06:29:06.731366Z",
+    "dueDateTime": "2023-08-17T10:00:00Z",
+    "hasDescription": false,
+    "previewType": "automatic",
+    "referenceCount": 0,
+    "checklistItemCount": 0,
+    "activeChecklistItemCount": 0,
+    "priority": 5,
+    "id": "0LJRqWJZSEW_55wN0NSTsZcAHwtt",
+    "createdBy": {
+      "user": {
+        "id": "d3b8fe93-86cb-4e0b-9572-2eea856e738a"
+      },
+      "application": {
+        "displayName": null,
+        "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {
+      "d3b8fe93-86cb-4e0b-9572-2eea856e738a": {
+        "@odata.type": "#microsoft.graph.plannerAssignment",
+        "assignedDateTime": "2023-07-26T06:29:06.731366Z",
+        "orderHint": "8585112539987774683PW",
+        "assignedBy": {
+          "user": {
+            "displayName": null,
+            "id": "d3b8fe93-86cb-4e0b-9572-2eea856e738a"
+          },
+          "application": {
+            "displayName": null,
+            "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+          }
+        }
+      }
+    },
+    "_assignments": [
+      {
+        "userId": "d3b8fe93-86cb-4e0b-9572-2eea856e738a",
+        "value": {
+          "@odata.type": "#microsoft.graph.plannerAssignment",
+          "assignedDateTime": "2023-07-26T06:29:06.731366Z",
+          "orderHint": "8585112539987774683PW",
+          "assignedBy": {
+            "user": {
+              "id": "d3b8fe93-86cb-4e0b-9572-2eea856e738a"
+            },
+            "application": {
+              "displayName": null,
+              "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBATCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "XdmCY7UA5U21c85rcrJ2B5cAOJQ8",
+    "title": "AZ 900 ",
+    "orderHint": "8585113152093301571Pp",
+    "assigneePriority": "",
+    "percentComplete": 0,
+    "createdDateTime": "2023-07-25T13:28:56.2568034Z",
+    "dueDateTime": "2023-08-04T10:00:00Z",
+    "hasDescription": false,
+    "previewType": "automatic",
+    "referenceCount": 0,
+    "checklistItemCount": 0,
+    "activeChecklistItemCount": 0,
+    "priority": 5,
+    "id": "xsYAJSZDW0OMDvl4LXMbtZcANmDH",
+    "createdBy": {
+      "user": {
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      },
+      "application": {
+        "displayName": null,
+        "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {
+      "3b9e3fc8-3480-4b9a-a065-728f0fc21830": {
+        "@odata.type": "#microsoft.graph.plannerAssignment",
+        "assignedDateTime": "2023-07-25T13:29:11.8768183Z",
+        "orderHint": "8585113151936163869PF",
+        "assignedBy": {
+          "user": {
+            "displayName": null,
+            "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+          },
+          "application": {
+            "displayName": null,
+            "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+          }
+        }
+      }
+    },
+    "_assignments": [
+      {
+        "userId": "3b9e3fc8-3480-4b9a-a065-728f0fc21830",
+        "value": {
+          "@odata.type": "#microsoft.graph.plannerAssignment",
+          "assignedDateTime": "2023-07-25T13:29:11.8768183Z",
+          "orderHint": "8585113151936163869PF",
+          "assignedBy": {
+            "user": {
+              "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+            },
+            "application": {
+              "displayName": null,
+              "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBARCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "0NhaBRAvVUK7NvTXumKBh5cANCAh",
+    "title": "Motel one Security",
+    "orderHint": "8585113245614487717P:",
+    "assigneePriority": "",
+    "percentComplete": 0,
+    "createdDateTime": "2023-07-25T10:53:04.1381922Z",
+    "hasDescription": false,
+    "previewType": "automatic",
+    "referenceCount": 0,
+    "checklistItemCount": 0,
+    "activeChecklistItemCount": 0,
+    "priority": 5,
+    "id": "aOf8TbDRQ06nUk__bmB82pcAKKEM",
+    "createdBy": {
+      "user": {
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      },
+      "application": {
+        "displayName": null,
+        "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {
+      "35932dba-428b-4bb9-bddf-5a98768cdada": {
+        "@odata.type": "#microsoft.graph.plannerAssignment",
+        "assignedDateTime": "2023-07-25T10:53:04.1381922Z",
+        "orderHint": "8585113245614487717P}",
+        "assignedBy": {
+          "user": {
+            "displayName": null,
+            "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+          },
+          "application": {
+            "displayName": null,
+            "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+          }
+        }
+      }
+    },
+    "_assignments": [
+      {
+        "userId": "35932dba-428b-4bb9-bddf-5a98768cdada",
+        "value": {
+          "@odata.type": "#microsoft.graph.plannerAssignment",
+          "assignedDateTime": "2023-07-25T10:53:04.1381922Z",
+          "orderHint": "8585113245614487717P}",
+          "assignedBy": {
+            "user": {
+              "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+            },
+            "application": {
+              "displayName": null,
+              "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBAdCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "XdmCY7UA5U21c85rcrJ2B5cAOJQ8",
+    "title": "GBS Europe Partnerschaft",
+    "orderHint": "8585131558543653700PT",
+    "assigneePriority": "8585131557549726303",
+    "percentComplete": 50,
+    "createdDateTime": "2023-07-04T06:11:31.2059621Z",
+    "hasDescription": false,
+    "previewType": "checklist",
+    "referenceCount": 0,
+    "checklistItemCount": 5,
+    "activeChecklistItemCount": 2,
+    "priority": 5,
+    "id": "kls8MxI_akq7kC4GxaNDTpcAGIUE",
+    "createdBy": {
+      "user": {
+        "id": "d3b8fe93-86cb-4e0b-9572-2eea856e738a"
+      },
+      "application": {
+        "displayName": null,
+        "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {
+      "3b9e3fc8-3480-4b9a-a065-728f0fc21830": {
+        "@odata.type": "#microsoft.graph.plannerAssignment",
+        "assignedDateTime": "2023-07-04T06:12:14.988559Z",
+        "orderHint": "8585131558105046505Pd",
+        "assignedBy": {
+          "user": {
+            "displayName": null,
+            "id": "d3b8fe93-86cb-4e0b-9572-2eea856e738a"
+          },
+          "application": {
+            "displayName": null,
+            "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+          }
+        }
+      },
+      "d3b8fe93-86cb-4e0b-9572-2eea856e738a": {
+        "@odata.type": "#microsoft.graph.plannerAssignment",
+        "assignedDateTime": "2023-07-04T06:12:10.5049504Z",
+        "orderHint": "8585131558150352633Pt",
+        "assignedBy": {
+          "user": {
+            "displayName": null,
+            "id": "d3b8fe93-86cb-4e0b-9572-2eea856e738a"
+          },
+          "application": {
+            "displayName": null,
+            "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+          }
+        }
+      }
+    },
+    "_assignments": [
+      {
+        "userId": "3b9e3fc8-3480-4b9a-a065-728f0fc21830",
+        "value": {
+          "@odata.type": "#microsoft.graph.plannerAssignment",
+          "assignedDateTime": "2023-07-04T06:12:14.988559Z",
+          "orderHint": "8585131558105046505Pd",
+          "assignedBy": {
+            "user": {
+              "id": "d3b8fe93-86cb-4e0b-9572-2eea856e738a"
+            },
+            "application": {
+              "displayName": null,
+              "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+            }
+          }
+        }
+      },
+      {
+        "userId": "d3b8fe93-86cb-4e0b-9572-2eea856e738a",
+        "value": {
+          "@odata.type": "#microsoft.graph.plannerAssignment",
+          "assignedDateTime": "2023-07-04T06:12:10.5049504Z",
+          "orderHint": "8585131558150352633Pt",
+          "assignedBy": {
+            "user": {
+              "id": "d3b8fe93-86cb-4e0b-9572-2eea856e738a"
+            },
+            "application": {
+              "displayName": null,
+              "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBAUCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "XdmCY7UA5U21c85rcrJ2B5cAOJQ8",
+    "title": "Härtungskonzept (Start nach Urlaub von Andreas H.)",
+    "orderHint": "8585134975012201914P'",
+    "assigneePriority": "8585113161454598095",
+    "percentComplete": 0,
+    "createdDateTime": "2023-06-30T07:17:24.3042637Z",
+    "hasDescription": false,
+    "previewType": "automatic",
+    "referenceCount": 0,
+    "checklistItemCount": 0,
+    "activeChecklistItemCount": 0,
+    "priority": 5,
+    "id": "3gzib_RAB0WNU79wOpZahpcALgnV",
+    "createdBy": {
+      "user": {
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      },
+      "application": {
+        "displayName": null,
+        "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {
+      "3b9e3fc8-3480-4b9a-a065-728f0fc21830": {
+        "@odata.type": "#microsoft.graph.plannerAssignment",
+        "assignedDateTime": "2023-07-25T13:12:09.3215182Z",
+        "orderHint": "8585113162162498034Pk",
+        "assignedBy": {
+          "user": {
+            "displayName": null,
+            "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+          },
+          "application": {
+            "displayName": null,
+            "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+          }
+        }
+      },
+      "d3b8fe93-86cb-4e0b-9572-2eea856e738a": {
+        "@odata.type": "#microsoft.graph.plannerAssignment",
+        "assignedDateTime": "2023-07-25T13:12:20.0177712Z",
+        "orderHint": "8585113162054754333PC",
+        "assignedBy": {
+          "user": {
+            "displayName": null,
+            "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+          },
+          "application": {
+            "displayName": null,
+            "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+          }
+        }
+      }
+    },
+    "_assignments": [
+      {
+        "userId": "3b9e3fc8-3480-4b9a-a065-728f0fc21830",
+        "value": {
+          "@odata.type": "#microsoft.graph.plannerAssignment",
+          "assignedDateTime": "2023-07-25T13:12:09.3215182Z",
+          "orderHint": "8585113162162498034Pk",
+          "assignedBy": {
+            "user": {
+              "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+            },
+            "application": {
+              "displayName": null,
+              "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+            }
+          }
+        }
+      },
+      {
+        "userId": "d3b8fe93-86cb-4e0b-9572-2eea856e738a",
+        "value": {
+          "@odata.type": "#microsoft.graph.plannerAssignment",
+          "assignedDateTime": "2023-07-25T13:12:20.0177712Z",
+          "orderHint": "8585113162054754333PC",
+          "assignedBy": {
+            "user": {
+              "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+            },
+            "application": {
+              "displayName": null,
+              "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBATCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "uyoTvkv6DUGsmB_ZqiS8qpcAHEfK",
+    "title": "Defender Sicherheitsrisikomanagement",
+    "orderHint": "8585156406836750655P,",
+    "assigneePriority": "",
+    "percentComplete": 0,
+    "createdDateTime": "2023-06-05T11:57:41.8337657Z",
+    "hasDescription": true,
+    "previewType": "automatic",
+    "referenceCount": 0,
+    "checklistItemCount": 0,
+    "activeChecklistItemCount": 0,
+    "priority": 5,
+    "id": "bN3GsJK0LEiZTkZ-kr0mWpcAGQIY",
+    "createdBy": {
+      "user": {
+        "id": "423157f8-9c92-47e9-8fc6-3d17caca04b0"
+      },
+      "application": {
+        "displayName": null,
+        "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {},
+    "_assignments": []
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBAZCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "uyoTvkv6DUGsmB_ZqiS8qpcAHEfK",
+    "title": "Defender Antivirus / Firewall",
+    "orderHint": "8585156407711767194P{",
+    "assigneePriority": "8585156381843092622",
+    "percentComplete": 0,
+    "createdDateTime": "2023-06-05T11:56:14.332113Z",
+    "dueDateTime": "2023-08-14T10:00:00Z",
+    "hasDescription": true,
+    "previewType": "automatic",
+    "referenceCount": 0,
+    "checklistItemCount": 0,
+    "activeChecklistItemCount": 0,
+    "conversationThreadId": "AAQkADljMmQ0NmM0LWVmMWYtNDEwNy05ZTFjLWQ3M2NkYmIxOGFiYQMkABAA6ChJ9zV0W0a0gBP6LvF3JhAA6ChJ9zV0W0a0gBP6LvF3Jg==",
+    "priority": 5,
+    "id": "LVNlM6-FPkqPEK3Gau1Ak5cAKM0J",
+    "createdBy": {
+      "user": {
+        "id": "423157f8-9c92-47e9-8fc6-3d17caca04b0"
+      },
+      "application": {
+        "displayName": null,
+        "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {
+      "d3b8fe93-86cb-4e0b-9572-2eea856e738a": {
+        "@odata.type": "#microsoft.graph.plannerAssignment",
+        "assignedDateTime": "2023-06-05T12:38:21.1683185Z",
+        "orderHint": "8585156382443561377Pu",
+        "assignedBy": {
+          "user": {
+            "displayName": null,
+            "id": "d3b8fe93-86cb-4e0b-9572-2eea856e738a"
+          },
+          "application": {
+            "displayName": null,
+            "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+          }
+        }
+      }
+    },
+    "_assignments": [
+      {
+        "userId": "d3b8fe93-86cb-4e0b-9572-2eea856e738a",
+        "value": {
+          "@odata.type": "#microsoft.graph.plannerAssignment",
+          "assignedDateTime": "2023-06-05T12:38:21.1683185Z",
+          "orderHint": "8585156382443561377Pu",
+          "assignedBy": {
+            "user": {
+              "id": "d3b8fe93-86cb-4e0b-9572-2eea856e738a"
+            },
+            "application": {
+              "displayName": null,
+              "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBAVCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "uyoTvkv6DUGsmB_ZqiS8qpcAHEfK",
+    "title": "Defender Threat Intelligence",
+    "orderHint": "8585156408275221269P_",
+    "assigneePriority": "",
+    "percentComplete": 0,
+    "createdDateTime": "2023-06-05T11:55:18.0804542Z",
+    "dueDateTime": "2023-08-14T10:00:00Z",
+    "hasDescription": true,
+    "previewType": "automatic",
+    "referenceCount": 0,
+    "checklistItemCount": 0,
+    "activeChecklistItemCount": 0,
+    "priority": 5,
+    "id": "wWfEPihN9U-Ch5IbtmwYe5cAP4Q3",
+    "createdBy": {
+      "user": {
+        "id": "423157f8-9c92-47e9-8fc6-3d17caca04b0"
+      },
+      "application": {
+        "displayName": null,
+        "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {
+      "3b9e3fc8-3480-4b9a-a065-728f0fc21830": {
+        "@odata.type": "#microsoft.graph.plannerAssignment",
+        "assignedDateTime": "2023-07-25T10:49:43.6512907Z",
+        "orderHint": "8585113247618419001P[",
+        "assignedBy": {
+          "user": {
+            "displayName": null,
+            "id": "d3b8fe93-86cb-4e0b-9572-2eea856e738a"
+          },
+          "application": {
+            "displayName": null,
+            "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+          }
+        }
+      }
+    },
+    "_assignments": [
+      {
+        "userId": "3b9e3fc8-3480-4b9a-a065-728f0fc21830",
+        "value": {
+          "@odata.type": "#microsoft.graph.plannerAssignment",
+          "assignedDateTime": "2023-07-25T10:49:43.6512907Z",
+          "orderHint": "8585113247618419001P[",
+          "assignedBy": {
+            "user": {
+              "id": "d3b8fe93-86cb-4e0b-9572-2eea856e738a"
+            },
+            "application": {
+              "displayName": null,
+              "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBATCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "uyoTvkv6DUGsmB_ZqiS8qpcAHEfK",
+    "title": "Defender for Container / App Service / KeyVault / DNS / Ressource Manager",
+    "orderHint": "8585156408891326016PM",
+    "assigneePriority": "",
+    "percentComplete": 0,
+    "createdDateTime": "2023-06-05T11:54:16.3762296Z",
+    "hasDescription": true,
+    "previewType": "automatic",
+    "referenceCount": 0,
+    "checklistItemCount": 0,
+    "activeChecklistItemCount": 0,
+    "priority": 5,
+    "id": "F6pwS4iAN02ZLsn8pvyxKZcAGtBE",
+    "createdBy": {
+      "user": {
+        "id": "423157f8-9c92-47e9-8fc6-3d17caca04b0"
+      },
+      "application": {
+        "displayName": null,
+        "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {},
+    "_assignments": []
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBAWCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "uyoTvkv6DUGsmB_ZqiS8qpcAHEfK",
+    "title": "Defender for SQL",
+    "orderHint": "8585156409418483383Pm",
+    "assigneePriority": "8585131558559913175",
+    "percentComplete": 50,
+    "createdDateTime": "2023-06-05T11:53:23.6761195Z",
+    "dueDateTime": "2023-08-14T10:00:00Z",
+    "hasDescription": true,
+    "previewType": "automatic",
+    "referenceCount": 0,
+    "checklistItemCount": 0,
+    "activeChecklistItemCount": 0,
+    "priority": 5,
+    "id": "TNNpoPAipUmBZZK42ws_NJcAEwFV",
+    "createdBy": {
+      "user": {
+        "id": "423157f8-9c92-47e9-8fc6-3d17caca04b0"
+      },
+      "application": {
+        "displayName": null,
+        "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {
+      "d3b8fe93-86cb-4e0b-9572-2eea856e738a": {
+        "@odata.type": "#microsoft.graph.plannerAssignment",
+        "assignedDateTime": "2023-07-04T06:10:29.4862632Z",
+        "orderHint": "8585131559160069528PK",
+        "assignedBy": {
+          "user": {
+            "displayName": null,
+            "id": "d3b8fe93-86cb-4e0b-9572-2eea856e738a"
+          },
+          "application": {
+            "displayName": null,
+            "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+          }
+        }
+      }
+    },
+    "_assignments": [
+      {
+        "userId": "d3b8fe93-86cb-4e0b-9572-2eea856e738a",
+        "value": {
+          "@odata.type": "#microsoft.graph.plannerAssignment",
+          "assignedDateTime": "2023-07-04T06:10:29.4862632Z",
+          "orderHint": "8585131559160069528PK",
+          "assignedBy": {
+            "user": {
+              "id": "d3b8fe93-86cb-4e0b-9572-2eea856e738a"
+            },
+            "application": {
+              "displayName": null,
+              "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBATCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "uyoTvkv6DUGsmB_ZqiS8qpcAHEfK",
+    "title": "Defender for Storage",
+    "orderHint": "8585156409991806257PY",
+    "assigneePriority": "",
+    "percentComplete": 0,
+    "createdDateTime": "2023-06-05T11:52:26.3255859Z",
+    "hasDescription": true,
+    "previewType": "automatic",
+    "referenceCount": 0,
+    "checklistItemCount": 0,
+    "activeChecklistItemCount": 0,
+    "priority": 5,
+    "id": "HbbOc9aGl0G5sRNRYzpvPpcAO-Mw",
+    "createdBy": {
+      "user": {
+        "id": "423157f8-9c92-47e9-8fc6-3d17caca04b0"
+      },
+      "application": {
+        "displayName": null,
+        "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {},
+    "_assignments": []
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBATCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "uyoTvkv6DUGsmB_ZqiS8qpcAHEfK",
+    "title": "Defender for Server",
+    "orderHint": "8585156410046445706PN",
+    "assigneePriority": "",
+    "percentComplete": 0,
+    "createdDateTime": "2023-06-05T11:52:20.8642591Z",
+    "hasDescription": true,
+    "previewType": "automatic",
+    "referenceCount": 0,
+    "checklistItemCount": 0,
+    "activeChecklistItemCount": 0,
+    "priority": 5,
+    "id": "FeWM-yzxvkOgN8II63s00ZcAFFv6",
+    "createdBy": {
+      "user": {
+        "id": "423157f8-9c92-47e9-8fc6-3d17caca04b0"
+      },
+      "application": {
+        "displayName": null,
+        "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {},
+    "_assignments": []
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBATCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "uyoTvkv6DUGsmB_ZqiS8qpcAHEfK",
+    "title": "Defender for Cloud",
+    "orderHint": "8585156410165309760P|",
+    "assigneePriority": "",
+    "percentComplete": 0,
+    "createdDateTime": "2023-06-05T11:52:08.9778543Z",
+    "hasDescription": true,
+    "previewType": "automatic",
+    "referenceCount": 0,
+    "checklistItemCount": 0,
+    "activeChecklistItemCount": 0,
+    "priority": 5,
+    "id": "1230Ca0o-06ORIN5EN3OI5cABr7l",
+    "createdBy": {
+      "user": {
+        "id": "423157f8-9c92-47e9-8fc6-3d17caca04b0"
+      },
+      "application": {
+        "displayName": null,
+        "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {},
+    "_assignments": []
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBATCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "uyoTvkv6DUGsmB_ZqiS8qpcAHEfK",
+    "title": "Defender for Cloud Apps",
+    "orderHint": "8585156410368914294P]",
+    "assigneePriority": "",
+    "percentComplete": 0,
+    "createdDateTime": "2023-06-05T11:51:48.6174002Z",
+    "hasDescription": true,
+    "previewType": "automatic",
+    "referenceCount": 0,
+    "checklistItemCount": 0,
+    "activeChecklistItemCount": 0,
+    "priority": 5,
+    "id": "ujTWdhCJmUmUaH0GO-KvsZcAETI-",
+    "createdBy": {
+      "user": {
+        "id": "423157f8-9c92-47e9-8fc6-3d17caca04b0"
+      },
+      "application": {
+        "displayName": null,
+        "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {},
+    "_assignments": []
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBATCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "uyoTvkv6DUGsmB_ZqiS8qpcAHEfK",
+    "title": "Defender for Identity",
+    "orderHint": "8585156410451988336Ph",
+    "assigneePriority": "",
+    "percentComplete": 0,
+    "createdDateTime": "2023-06-05T11:51:40.2943731Z",
+    "hasDescription": true,
+    "previewType": "automatic",
+    "referenceCount": 0,
+    "checklistItemCount": 0,
+    "activeChecklistItemCount": 0,
+    "priority": 5,
+    "id": "XcHkDQEz90ifuoLvZjEQZ5cAC4gp",
+    "createdBy": {
+      "user": {
+        "id": "423157f8-9c92-47e9-8fc6-3d17caca04b0"
+      },
+      "application": {
+        "displayName": null,
+        "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {},
+    "_assignments": []
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBAVCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "uyoTvkv6DUGsmB_ZqiS8qpcAHEfK",
+    "title": "Defender for Office 365",
+    "orderHint": "8585156410574586586Pq",
+    "assigneePriority": "",
+    "percentComplete": 0,
+    "createdDateTime": "2023-06-05T11:51:28.0345508Z",
+    "hasDescription": true,
+    "previewType": "automatic",
+    "referenceCount": 0,
+    "checklistItemCount": 0,
+    "activeChecklistItemCount": 0,
+    "priority": 5,
+    "id": "xXSJXii2fkODlcsFvfmsIpcAD1-9",
+    "createdBy": {
+      "user": {
+        "id": "423157f8-9c92-47e9-8fc6-3d17caca04b0"
+      },
+      "application": {
+        "displayName": null,
+        "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {},
+    "_assignments": []
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBAbCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "uyoTvkv6DUGsmB_ZqiS8qpcAHEfK",
+    "title": "Defender for Endpoint",
+    "orderHint": "8585156410700912369Pc",
+    "assigneePriority": "",
+    "percentComplete": 50,
+    "startDateTime": "2023-06-05T10:00:00Z",
+    "createdDateTime": "2023-06-05T11:51:15.417539Z",
+    "dueDateTime": "2023-08-07T10:00:00Z",
+    "hasDescription": true,
+    "previewType": "automatic",
+    "referenceCount": 0,
+    "checklistItemCount": 0,
+    "activeChecklistItemCount": 0,
+    "conversationThreadId": "AAQkADljMmQ0NmM0LWVmMWYtNDEwNy05ZTFjLWQ3M2NkYmIxOGFiYQMkABAAHpUQ820X0kysB9o3zSUcgRAAHpUQ820X0kysB9o3zSUcgQ==",
+    "priority": 5,
+    "id": "T2I-y36u50SeZRLKCZappZcAFkh_",
+    "createdBy": {
+      "user": {
+        "id": "423157f8-9c92-47e9-8fc6-3d17caca04b0"
+      },
+      "application": {
+        "displayName": null,
+        "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {
+      "3b9e3fc8-3480-4b9a-a065-728f0fc21830": {
+        "@odata.type": "#microsoft.graph.plannerAssignment",
+        "assignedDateTime": "2023-06-05T12:42:59.6663517Z",
+        "orderHint": "8585156379658268532P9",
+        "assignedBy": {
+          "user": {
+            "displayName": null,
+            "id": "3b9e3fc8-3480-4b9a-a065-728f0fc21830"
+          },
+          "application": {
+            "displayName": null,
+            "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+          }
+        }
+      }
+    },
+    "_assignments": [
+      {
+        "userId": "3b9e3fc8-3480-4b9a-a065-728f0fc21830",
+        "value": {
+          "@odata.type": "#microsoft.graph.plannerAssignment",
+          "assignedDateTime": "2023-06-05T12:42:59.6663517Z",
+          "orderHint": "8585156379658268532P9",
+          "assignedBy": {
+            "user": {
+              "id": "3b9e3fc8-3480-4b9a-a065-728f0fc21830"
+            },
+            "application": {
+              "displayName": null,
+              "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBATCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "0NhaBRAvVUK7NvTXumKBh5cANCAh",
+    "title": "PowerPoint-Vorlage erstellen",
+    "orderHint": "8585161540123685697P&",
+    "assigneePriority": "",
+    "percentComplete": 0,
+    "createdDateTime": "2023-05-30T13:22:13.1715195Z",
+    "dueDateTime": "2023-08-30T10:00:00Z",
+    "hasDescription": false,
+    "previewType": "automatic",
+    "referenceCount": 0,
+    "checklistItemCount": 0,
+    "activeChecklistItemCount": 0,
+    "priority": 5,
+    "id": "3Uh9_dCQnUSCcKjqNoYrSpcAJIl6",
+    "createdBy": {
+      "user": {
+        "id": "3b9e3fc8-3480-4b9a-a065-728f0fc21830"
+      },
+      "application": {
+        "displayName": null,
+        "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {
+      "3b9e3fc8-3480-4b9a-a065-728f0fc21830": {
+        "@odata.type": "#microsoft.graph.plannerAssignment",
+        "assignedDateTime": "2023-05-30T13:22:13.1715195Z",
+        "orderHint": "8585161540123685697Pk",
+        "assignedBy": {
+          "user": {
+            "displayName": null,
+            "id": "3b9e3fc8-3480-4b9a-a065-728f0fc21830"
+          },
+          "application": {
+            "displayName": null,
+            "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+          }
+        }
+      }
+    },
+    "_assignments": [
+      {
+        "userId": "3b9e3fc8-3480-4b9a-a065-728f0fc21830",
+        "value": {
+          "@odata.type": "#microsoft.graph.plannerAssignment",
+          "assignedDateTime": "2023-05-30T13:22:13.1715195Z",
+          "orderHint": "8585161540123685697Pk",
+          "assignedBy": {
+            "user": {
+              "id": "3b9e3fc8-3480-4b9a-a065-728f0fc21830"
+            },
+            "application": {
+              "displayName": null,
+              "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBAUCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "XdmCY7UA5U21c85rcrJ2B5cAOJQ8",
+    "title": "Cloud Security - Blog Artikel Serie",
+    "orderHint": "8585161563955367960Pq",
+    "assigneePriority": "",
+    "percentComplete": 0,
+    "createdDateTime": "2023-05-30T12:42:29.9720279Z",
+    "hasDescription": false,
+    "previewType": "automatic",
+    "referenceCount": 0,
+    "checklistItemCount": 0,
+    "activeChecklistItemCount": 0,
+    "priority": 5,
+    "id": "K8WtK37cM0uaKxCM0kvDNpcADHi9",
+    "createdBy": {
+      "user": {
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      },
+      "application": {
+        "displayName": null,
+        "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {
+      "423157f8-9c92-47e9-8fc6-3d17caca04b0": {
+        "@odata.type": "#microsoft.graph.plannerAssignment",
+        "assignedDateTime": "2023-06-13T13:10:53.5468015Z",
+        "orderHint": "8585149450919620317PI",
+        "assignedBy": {
+          "user": {
+            "displayName": null,
+            "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+          },
+          "application": {
+            "displayName": null,
+            "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+          }
+        }
+      }
+    },
+    "_assignments": [
+      {
+        "userId": "423157f8-9c92-47e9-8fc6-3d17caca04b0",
+        "value": {
+          "@odata.type": "#microsoft.graph.plannerAssignment",
+          "assignedDateTime": "2023-06-13T13:10:53.5468015Z",
+          "orderHint": "8585149450919620317PI",
+          "assignedBy": {
+            "user": {
+              "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+            },
+            "application": {
+              "displayName": null,
+              "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBAZCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "XdmCY7UA5U21c85rcrJ2B5cAOJQ8",
+    "title": "Security gr24 ",
+    "orderHint": "8585161564023164774PH",
+    "assigneePriority": "8585113247304183064",
+    "percentComplete": 50,
+    "createdDateTime": "2023-05-30T12:42:23.1923507Z",
+    "hasDescription": false,
+    "previewType": "checklist",
+    "referenceCount": 0,
+    "checklistItemCount": 3,
+    "activeChecklistItemCount": 3,
+    "priority": 5,
+    "id": "HQt3LQn_Rk-Pwfchd2DfCZcAPcAt",
+    "createdBy": {
+      "user": {
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      },
+      "application": {
+        "displayName": null,
+        "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {
+      "3b9e3fc8-3480-4b9a-a065-728f0fc21830": {
+        "@odata.type": "#microsoft.graph.plannerAssignment",
+        "assignedDateTime": "2023-07-25T10:49:08.2214605Z",
+        "orderHint": "8585113247972717401P*",
+        "assignedBy": {
+          "user": {
+            "displayName": null,
+            "id": "d3b8fe93-86cb-4e0b-9572-2eea856e738a"
+          },
+          "application": {
+            "displayName": null,
+            "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+          }
+        }
+      },
+      "d3b8fe93-86cb-4e0b-9572-2eea856e738a": {
+        "@odata.type": "#microsoft.graph.plannerAssignment",
+        "assignedDateTime": "2023-07-25T10:49:15.0592743Z",
+        "orderHint": "8585113247904339334P|",
+        "assignedBy": {
+          "user": {
+            "displayName": null,
+            "id": "d3b8fe93-86cb-4e0b-9572-2eea856e738a"
+          },
+          "application": {
+            "displayName": null,
+            "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+          }
+        }
+      },
+      "cee457d9-3262-4d0e-9a4d-9e9c0bf50b2f": {
+        "@odata.type": "#microsoft.graph.plannerAssignment",
+        "assignedDateTime": "2023-06-13T13:11:00.0939246Z",
+        "orderHint": "8585149450853992788PG",
+        "assignedBy": {
+          "user": {
+            "displayName": null,
+            "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+          },
+          "application": {
+            "displayName": null,
+            "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+          }
+        }
+      }
+    },
+    "_assignments": [
+      {
+        "userId": "3b9e3fc8-3480-4b9a-a065-728f0fc21830",
+        "value": {
+          "@odata.type": "#microsoft.graph.plannerAssignment",
+          "assignedDateTime": "2023-07-25T10:49:08.2214605Z",
+          "orderHint": "8585113247972717401P*",
+          "assignedBy": {
+            "user": {
+              "id": "d3b8fe93-86cb-4e0b-9572-2eea856e738a"
+            },
+            "application": {
+              "displayName": null,
+              "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+            }
+          }
+        }
+      },
+      {
+        "userId": "d3b8fe93-86cb-4e0b-9572-2eea856e738a",
+        "value": {
+          "@odata.type": "#microsoft.graph.plannerAssignment",
+          "assignedDateTime": "2023-07-25T10:49:15.0592743Z",
+          "orderHint": "8585113247904339334P|",
+          "assignedBy": {
+            "user": {
+              "id": "d3b8fe93-86cb-4e0b-9572-2eea856e738a"
+            },
+            "application": {
+              "displayName": null,
+              "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+            }
+          }
+        }
+      },
+      {
+        "userId": "cee457d9-3262-4d0e-9a4d-9e9c0bf50b2f",
+        "value": {
+          "@odata.type": "#microsoft.graph.plannerAssignment",
+          "assignedDateTime": "2023-06-13T13:11:00.0939246Z",
+          "orderHint": "8585149450853992788PG",
+          "assignedBy": {
+            "user": {
+              "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+            },
+            "application": {
+              "displayName": null,
+              "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBAeCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "XdmCY7UA5U21c85rcrJ2B5cAOJQ8",
+    "title": "Vertriebsweg: BNI - Meeting",
+    "orderHint": "8585172868448096379PY",
+    "assigneePriority": "",
+    "percentComplete": 0,
+    "createdDateTime": "2023-05-17T10:41:40.6991955Z",
+    "hasDescription": false,
+    "previewType": "checklist",
+    "referenceCount": 0,
+    "checklistItemCount": 3,
+    "activeChecklistItemCount": 3,
+    "priority": 5,
+    "id": "_Qzk2ZQXT0OxSHcRKjKWDJcAA8us",
+    "createdBy": {
+      "user": {
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      },
+      "application": {
+        "displayName": null,
+        "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {
+      "35932dba-428b-4bb9-bddf-5a98768cdada": {
+        "@odata.type": "#microsoft.graph.plannerAssignment",
+        "assignedDateTime": "2023-06-30T07:17:51.5078256Z",
+        "orderHint": "8585134974740010160P=",
+        "assignedBy": {
+          "user": {
+            "displayName": null,
+            "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+          },
+          "application": {
+            "displayName": null,
+            "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+          }
+        }
+      }
+    },
+    "_assignments": [
+      {
+        "userId": "35932dba-428b-4bb9-bddf-5a98768cdada",
+        "value": {
+          "@odata.type": "#microsoft.graph.plannerAssignment",
+          "assignedDateTime": "2023-06-30T07:17:51.5078256Z",
+          "orderHint": "8585134974740010160P=",
+          "assignedBy": {
+            "user": {
+              "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+            },
+            "application": {
+              "displayName": null,
+              "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBATCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "ePUyIK3EMES61bxm-JoK2JcAPS-v",
+    "title": "Präsentation: Folie 8 Projektplan Laufzeiten und Beistellungen ergänzen ",
+    "orderHint": "8585172870610942634PE",
+    "assigneePriority": "",
+    "percentComplete": 0,
+    "createdDateTime": "2023-05-17T10:38:04.4926944Z",
+    "hasDescription": false,
+    "previewType": "automatic",
+    "referenceCount": 0,
+    "checklistItemCount": 0,
+    "activeChecklistItemCount": 0,
+    "priority": 5,
+    "id": "uiRos2zd20q8vDJhuBNzq5cAEyBM",
+    "createdBy": {
+      "user": {
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      },
+      "application": {
+        "displayName": null,
+        "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {
+      "35932dba-428b-4bb9-bddf-5a98768cdada": {
+        "@odata.type": "#microsoft.graph.plannerAssignment",
+        "assignedDateTime": "2023-05-17T10:38:18.9708217Z",
+        "orderHint": "8585172870465380073PL",
+        "assignedBy": {
+          "user": {
+            "displayName": null,
+            "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+          },
+          "application": {
+            "displayName": null,
+            "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+          }
+        }
+      }
+    },
+    "_assignments": [
+      {
+        "userId": "35932dba-428b-4bb9-bddf-5a98768cdada",
+        "value": {
+          "@odata.type": "#microsoft.graph.plannerAssignment",
+          "assignedDateTime": "2023-05-17T10:38:18.9708217Z",
+          "orderHint": "8585172870465380073PL",
+          "assignedBy": {
+            "user": {
+              "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+            },
+            "application": {
+              "displayName": null,
+              "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBATCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "ePUyIK3EMES61bxm-JoK2JcAPS-v",
+    "title": "Präsentation: OnePager ",
+    "orderHint": "8585172870931326183PY",
+    "assigneePriority": "",
+    "percentComplete": 0,
+    "createdDateTime": "2023-05-17T10:37:32.3762136Z",
+    "hasDescription": false,
+    "previewType": "automatic",
+    "referenceCount": 0,
+    "checklistItemCount": 0,
+    "activeChecklistItemCount": 0,
+    "priority": 5,
+    "id": "01HTzRC8DESEeozRXUTCn5cAJbAw",
+    "createdBy": {
+      "user": {
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      },
+      "application": {
+        "displayName": null,
+        "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {
+      "35932dba-428b-4bb9-bddf-5a98768cdada": {
+        "@odata.type": "#microsoft.graph.plannerAssignment",
+        "assignedDateTime": "2023-05-17T10:38:13.0332148Z",
+        "orderHint": "8585172870524599917P1",
+        "assignedBy": {
+          "user": {
+            "displayName": null,
+            "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+          },
+          "application": {
+            "displayName": null,
+            "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+          }
+        }
+      }
+    },
+    "_assignments": [
+      {
+        "userId": "35932dba-428b-4bb9-bddf-5a98768cdada",
+        "value": {
+          "@odata.type": "#microsoft.graph.plannerAssignment",
+          "assignedDateTime": "2023-05-17T10:38:13.0332148Z",
+          "orderHint": "8585172870524599917P1",
+          "assignedBy": {
+            "user": {
+              "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+            },
+            "application": {
+              "displayName": null,
+              "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBBSCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "XdmCY7UA5U21c85rcrJ2B5cAOJQ8",
+    "title": "Projekt: USB Zugriff in der group24 einschränken",
+    "orderHint": "8585214420123625455Pm",
+    "assigneePriority": "",
+    "percentComplete": 0,
+    "createdDateTime": "2023-03-30T08:28:53.1775356Z",
+    "hasDescription": true,
+    "previewType": "checklist",
+    "referenceCount": 0,
+    "checklistItemCount": 3,
+    "activeChecklistItemCount": 3,
+    "priority": 5,
+    "id": "O9CY-uYjfEqRBvTtI4hD75cADJ9a",
+    "createdBy": {
+      "user": {
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      },
+      "application": {
+        "displayName": null,
+        "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {
+      "2a21ff9e-7568-40ba-8664-2feca4ef6431": {
+        "@odata.type": "#microsoft.graph.plannerAssignment",
+        "assignedDateTime": "2023-03-30T08:28:53.1775356Z",
+        "orderHint": "8585214420123625455P4",
+        "assignedBy": {
+          "user": {
+            "displayName": null,
+            "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+          },
+          "application": {
+            "displayName": null,
+            "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+          }
+        }
+      }
+    },
+    "_assignments": [
+      {
+        "userId": "2a21ff9e-7568-40ba-8664-2feca4ef6431",
+        "value": {
+          "@odata.type": "#microsoft.graph.plannerAssignment",
+          "assignedDateTime": "2023-03-30T08:28:53.1775356Z",
+          "orderHint": "8585214420123625455P4",
+          "assignedBy": {
+            "user": {
+              "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+            },
+            "application": {
+              "displayName": null,
+              "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBASCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "ePUyIK3EMES61bxm-JoK2JcAPS-v",
+    "title": "Starke Botschaften für die Präsentation/WebSite\tSorgfaltspflicht, Ransomeware ready, Cyberversicherungs ready...",
+    "orderHint": "8585275666262900186PS",
+    "assigneePriority": "",
+    "percentComplete": 0,
+    "createdDateTime": "2023-01-18T11:11:59.2500725Z",
+    "hasDescription": false,
+    "previewType": "automatic",
+    "referenceCount": 0,
+    "checklistItemCount": 0,
+    "activeChecklistItemCount": 0,
+    "priority": 5,
+    "id": "0rbgWMWya0iDhfwdVeTf65cAP02i",
+    "createdBy": {
+      "user": {
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      },
+      "application": {
+        "displayName": null,
+        "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {
+      "35932dba-428b-4bb9-bddf-5a98768cdada": {
+        "@odata.type": "#microsoft.graph.plannerAssignment",
+        "assignedDateTime": "2023-01-18T11:11:59.2500725Z",
+        "orderHint": "8585275666262900186Pp",
+        "assignedBy": {
+          "user": {
+            "displayName": null,
+            "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+          },
+          "application": {
+            "displayName": null,
+            "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+          }
+        }
+      }
+    },
+    "_assignments": [
+      {
+        "userId": "35932dba-428b-4bb9-bddf-5a98768cdada",
+        "value": {
+          "@odata.type": "#microsoft.graph.plannerAssignment",
+          "assignedDateTime": "2023-01-18T11:11:59.2500725Z",
+          "orderHint": "8585275666262900186Pp",
+          "assignedBy": {
+            "user": {
+              "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+            },
+            "application": {
+              "displayName": null,
+              "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBAaCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "wioiKMfaVUSh9DQDUi9A4JcAOU8d",
+    "title": "Lisa Weinand | United Robotics Group <l.weinand@unitedrobotics.group>",
+    "orderHint": "8585409737911342271PK",
+    "assigneePriority": "",
+    "percentComplete": 0,
+    "createdDateTime": "2022-08-16T06:59:14.3589692Z",
+    "hasDescription": false,
+    "previewType": "automatic",
+    "referenceCount": 0,
+    "checklistItemCount": 0,
+    "activeChecklistItemCount": 0,
+    "priority": 5,
+    "id": "8X1afNET4ECajn1KhUed1ZcAIr7H",
+    "createdBy": {
+      "user": {
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {
+      "35932dba-428b-4bb9-bddf-5a98768cdada": {
+        "@odata.type": "#microsoft.graph.plannerAssignment",
+        "assignedDateTime": "2022-08-16T06:59:21.0935096Z",
+        "orderHint": "8585409737843997000P[",
+        "assignedBy": {
+          "user": {
+            "displayName": null,
+            "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+          }
+        }
+      },
+      "cee457d9-3262-4d0e-9a4d-9e9c0bf50b2f": {
+        "@odata.type": "#microsoft.graph.plannerAssignment",
+        "assignedDateTime": "2022-08-16T06:59:23.0784349Z",
+        "orderHint": "8585409737824147686P8",
+        "assignedBy": {
+          "user": {
+            "displayName": null,
+            "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+          }
+        }
+      }
+    },
+    "_assignments": [
+      {
+        "userId": "35932dba-428b-4bb9-bddf-5a98768cdada",
+        "value": {
+          "@odata.type": "#microsoft.graph.plannerAssignment",
+          "assignedDateTime": "2022-08-16T06:59:21.0935096Z",
+          "orderHint": "8585409737843997000P[",
+          "assignedBy": {
+            "user": {
+              "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+            }
+          }
+        }
+      },
+      {
+        "userId": "cee457d9-3262-4d0e-9a4d-9e9c0bf50b2f",
+        "value": {
+          "@odata.type": "#microsoft.graph.plannerAssignment",
+          "assignedDateTime": "2022-08-16T06:59:23.0784349Z",
+          "orderHint": "8585409737824147686P8",
+          "assignedBy": {
+            "user": {
+              "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBBTCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "0NhaBRAvVUK7NvTXumKBh5cANCAh",
+    "title": "Beauftragung durch LZPD",
+    "orderHint": "8585450999647947096Pp",
+    "assigneePriority": "",
+    "percentComplete": 0,
+    "createdDateTime": "2022-06-29T12:49:40.6988482Z",
+    "dueDateTime": "2022-12-31T10:00:00Z",
+    "hasDescription": false,
+    "previewType": "checklist",
+    "referenceCount": 0,
+    "checklistItemCount": 6,
+    "activeChecklistItemCount": 6,
+    "priority": 5,
+    "id": "qPc6bnpFSkKuVZgHEOJMdpcAO_dm",
+    "createdBy": {
+      "user": {
+        "id": "cee457d9-3262-4d0e-9a4d-9e9c0bf50b2f"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {
+      "2a21ff9e-7568-40ba-8664-2feca4ef6431": {
+        "@odata.type": "#microsoft.graph.plannerAssignment",
+        "assignedDateTime": "2022-08-29T11:19:39.6413588Z",
+        "orderHint": "8585398349658674712Pk",
+        "assignedBy": {
+          "user": {
+            "displayName": null,
+            "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+          }
+        }
+      },
+      "423157f8-9c92-47e9-8fc6-3d17caca04b0": {
+        "@odata.type": "#microsoft.graph.plannerAssignment",
+        "assignedDateTime": "2023-02-20T12:18:57.0892467Z",
+        "orderHint": "8585247114084352113P3",
+        "assignedBy": {
+          "user": {
+            "displayName": null,
+            "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+          },
+          "application": {
+            "displayName": null,
+            "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+          }
+        }
+      },
+      "cee457d9-3262-4d0e-9a4d-9e9c0bf50b2f": {
+        "@odata.type": "#microsoft.graph.plannerAssignment",
+        "assignedDateTime": "2022-06-29T12:49:47.2577449Z",
+        "orderHint": "8585450999582354677Pv",
+        "assignedBy": {
+          "user": {
+            "displayName": null,
+            "id": "cee457d9-3262-4d0e-9a4d-9e9c0bf50b2f"
+          }
+        }
+      }
+    },
+    "_assignments": [
+      {
+        "userId": "2a21ff9e-7568-40ba-8664-2feca4ef6431",
+        "value": {
+          "@odata.type": "#microsoft.graph.plannerAssignment",
+          "assignedDateTime": "2022-08-29T11:19:39.6413588Z",
+          "orderHint": "8585398349658674712Pk",
+          "assignedBy": {
+            "user": {
+              "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+            }
+          }
+        }
+      },
+      {
+        "userId": "423157f8-9c92-47e9-8fc6-3d17caca04b0",
+        "value": {
+          "@odata.type": "#microsoft.graph.plannerAssignment",
+          "assignedDateTime": "2023-02-20T12:18:57.0892467Z",
+          "orderHint": "8585247114084352113P3",
+          "assignedBy": {
+            "user": {
+              "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+            },
+            "application": {
+              "displayName": null,
+              "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+            }
+          }
+        }
+      },
+      {
+        "userId": "cee457d9-3262-4d0e-9a4d-9e9c0bf50b2f",
+        "value": {
+          "@odata.type": "#microsoft.graph.plannerAssignment",
+          "assignedDateTime": "2022-06-29T12:49:47.2577449Z",
+          "orderHint": "8585450999582354677Pv",
+          "assignedBy": {
+            "user": {
+              "id": "cee457d9-3262-4d0e-9a4d-9e9c0bf50b2f"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBBaCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "wioiKMfaVUSh9DQDUi9A4JcAOU8d",
+    "title": "Beauftragung durch NRW.BANK",
+    "orderHint": "8585451000368425785PN",
+    "assigneePriority": "",
+    "percentComplete": 0,
+    "createdDateTime": "2022-06-29T12:48:28.6506246Z",
+    "dueDateTime": "2022-12-31T10:00:00Z",
+    "hasDescription": false,
+    "previewType": "checklist",
+    "referenceCount": 0,
+    "checklistItemCount": 7,
+    "activeChecklistItemCount": 1,
+    "priority": 5,
+    "id": "rfyW8LBjxUWGHG12th5pqpcAJWLz",
+    "createdBy": {
+      "user": {
+        "id": "cee457d9-3262-4d0e-9a4d-9e9c0bf50b2f"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {
+      "cee457d9-3262-4d0e-9a4d-9e9c0bf50b2f": {
+        "@odata.type": "#microsoft.graph.plannerAssignment",
+        "assignedDateTime": "2022-06-29T12:48:28.6506246Z",
+        "orderHint": "8585451000368425785Po",
+        "assignedBy": {
+          "user": {
+            "displayName": null,
+            "id": "cee457d9-3262-4d0e-9a4d-9e9c0bf50b2f"
+          }
+        }
+      }
+    },
+    "_assignments": [
+      {
+        "userId": "cee457d9-3262-4d0e-9a4d-9e9c0bf50b2f",
+        "value": {
+          "@odata.type": "#microsoft.graph.plannerAssignment",
+          "assignedDateTime": "2022-06-29T12:48:28.6506246Z",
+          "orderHint": "8585451000368425785Po",
+          "assignedBy": {
+            "user": {
+              "id": "cee457d9-3262-4d0e-9a4d-9e9c0bf50b2f"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBAWCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "wioiKMfaVUSh9DQDUi9A4JcAOU8d",
+    "title": "Neue Mitarbeiter gewinnen",
+    "orderHint": "8585495130839158260PC",
+    "assigneePriority": "",
+    "percentComplete": 0,
+    "createdDateTime": "2022-05-09T10:57:41.5930745Z",
+    "hasDescription": false,
+    "previewType": "automatic",
+    "referenceCount": 0,
+    "checklistItemCount": 0,
+    "activeChecklistItemCount": 0,
+    "priority": 5,
+    "id": "eWALwO8ZNkG2J1Go46IIv5cAAbRC",
+    "createdBy": {
+      "user": {
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {
+      "35932dba-428b-4bb9-bddf-5a98768cdada": {
+        "@odata.type": "#microsoft.graph.plannerAssignment",
+        "assignedDateTime": "2022-05-09T10:57:49.7768312Z",
+        "orderHint": "8585495130757163748P^",
+        "assignedBy": {
+          "user": {
+            "displayName": null,
+            "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+          }
+        }
+      }
+    },
+    "_assignments": [
+      {
+        "userId": "35932dba-428b-4bb9-bddf-5a98768cdada",
+        "value": {
+          "@odata.type": "#microsoft.graph.plannerAssignment",
+          "assignedDateTime": "2022-05-09T10:57:49.7768312Z",
+          "orderHint": "8585495130757163748P^",
+          "assignedBy": {
+            "user": {
+              "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBAXCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "wioiKMfaVUSh9DQDUi9A4JcAOU8d",
+    "title": "Kundenfokus",
+    "orderHint": "8585495132742813394P@",
+    "assigneePriority": "",
+    "percentComplete": 0,
+    "createdDateTime": "2022-05-09T10:54:31.2118702Z",
+    "hasDescription": false,
+    "previewType": "automatic",
+    "referenceCount": 0,
+    "checklistItemCount": 0,
+    "activeChecklistItemCount": 0,
+    "priority": 5,
+    "id": "7lWJTwaE_UW4yrfC3NFxE5cAGXp2",
+    "createdBy": {
+      "user": {
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {
+      "35932dba-428b-4bb9-bddf-5a98768cdada": {
+        "@odata.type": "#microsoft.graph.plannerAssignment",
+        "assignedDateTime": "2022-05-09T10:54:31.2118702Z",
+        "orderHint": "8585495132742813394P^",
+        "assignedBy": {
+          "user": {
+            "displayName": null,
+            "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+          }
+        }
+      },
+      "2a21ff9e-7568-40ba-8664-2feca4ef6431": {
+        "@odata.type": "#microsoft.graph.plannerAssignment",
+        "assignedDateTime": "2022-05-23T11:42:39.2368758Z",
+        "orderHint": "8585483007862563448P|",
+        "assignedBy": {
+          "user": {
+            "displayName": null,
+            "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+          }
+        }
+      },
+      "cee457d9-3262-4d0e-9a4d-9e9c0bf50b2f": {
+        "@odata.type": "#microsoft.graph.plannerAssignment",
+        "assignedDateTime": "2022-05-23T11:42:37.6943966Z",
+        "orderHint": "8585483007877988702P.",
+        "assignedBy": {
+          "user": {
+            "displayName": null,
+            "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+          }
+        }
+      }
+    },
+    "_assignments": [
+      {
+        "userId": "35932dba-428b-4bb9-bddf-5a98768cdada",
+        "value": {
+          "@odata.type": "#microsoft.graph.plannerAssignment",
+          "assignedDateTime": "2022-05-09T10:54:31.2118702Z",
+          "orderHint": "8585495132742813394P^",
+          "assignedBy": {
+            "user": {
+              "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+            }
+          }
+        }
+      },
+      {
+        "userId": "2a21ff9e-7568-40ba-8664-2feca4ef6431",
+        "value": {
+          "@odata.type": "#microsoft.graph.plannerAssignment",
+          "assignedDateTime": "2022-05-23T11:42:39.2368758Z",
+          "orderHint": "8585483007862563448P|",
+          "assignedBy": {
+            "user": {
+              "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+            }
+          }
+        }
+      },
+      {
+        "userId": "cee457d9-3262-4d0e-9a4d-9e9c0bf50b2f",
+        "value": {
+          "@odata.type": "#microsoft.graph.plannerAssignment",
+          "assignedDateTime": "2022-05-23T11:42:37.6943966Z",
+          "orderHint": "8585483007877988702P.",
+          "assignedBy": {
+            "user": {
+              "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBAUCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "_rNm9dOVgUyClq5UCYlZfJcAG_HO",
+    "title": "Security Service - PAM",
+    "orderHint": "8585518329421976374P@",
+    "assigneePriority": "",
+    "percentComplete": 0,
+    "createdDateTime": "2022-04-12T14:33:23.2955639Z",
+    "hasDescription": false,
+    "previewType": "automatic",
+    "referenceCount": 0,
+    "checklistItemCount": 0,
+    "activeChecklistItemCount": 0,
+    "priority": 5,
+    "id": "I7fiAVKyWUKLNUGl7FoGq5cACQzy",
+    "createdBy": {
+      "user": {
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {},
+    "_assignments": []
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBAUCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "_rNm9dOVgUyClq5UCYlZfJcAG_HO",
+    "title": "Security - Pentest",
+    "orderHint": "8585518329616147422Pj",
+    "assigneePriority": "",
+    "percentComplete": 0,
+    "createdDateTime": "2022-04-12T14:33:03.9097983Z",
+    "hasDescription": false,
+    "previewType": "automatic",
+    "referenceCount": 0,
+    "checklistItemCount": 0,
+    "activeChecklistItemCount": 0,
+    "priority": 5,
+    "id": "JOjs6x7PgE2qYa7019B0bJcAKz11",
+    "createdBy": {
+      "user": {
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {},
+    "_assignments": []
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBAUCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "_rNm9dOVgUyClq5UCYlZfJcAG_HO",
+    "title": "Security - SOC",
+    "orderHint": "8585518329873058167Ph",
+    "assigneePriority": "",
+    "percentComplete": 0,
+    "createdDateTime": "2022-04-12T14:32:38.1873869Z",
+    "hasDescription": false,
+    "previewType": "automatic",
+    "referenceCount": 0,
+    "checklistItemCount": 0,
+    "activeChecklistItemCount": 0,
+    "priority": 5,
+    "id": "zkwGvnjo9EiRdgqm1PAWMpcAKlUY",
+    "createdBy": {
+      "user": {
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {},
+    "_assignments": []
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBAUCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "_rNm9dOVgUyClq5UCYlZfJcAG_HO",
+    "title": "Security Checks - End Point Management",
+    "orderHint": "8585518329968821970Px",
+    "assigneePriority": "",
+    "percentComplete": 0,
+    "createdDateTime": "2022-04-12T14:32:28.6087934Z",
+    "hasDescription": false,
+    "previewType": "automatic",
+    "referenceCount": 0,
+    "checklistItemCount": 0,
+    "activeChecklistItemCount": 0,
+    "priority": 5,
+    "id": "bQkz0TBLTUa9ltdIJakEN5cACsEM",
+    "createdBy": {
+      "user": {
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {},
+    "_assignments": []
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBAUCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "_rNm9dOVgUyClq5UCYlZfJcAG_HO",
+    "title": "Security Checks - Zero Trust",
+    "orderHint": "8585518330126811554Pu",
+    "assigneePriority": "",
+    "percentComplete": 0,
+    "createdDateTime": "2022-04-12T14:32:12.8278158Z",
+    "hasDescription": false,
+    "previewType": "automatic",
+    "referenceCount": 0,
+    "checklistItemCount": 0,
+    "activeChecklistItemCount": 0,
+    "priority": 5,
+    "id": "m0ppHh0It0mh1zerqkXkGZcACUHH",
+    "createdBy": {
+      "user": {
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {},
+    "_assignments": []
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBAUCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "_rNm9dOVgUyClq5UCYlZfJcAG_HO",
+    "title": "Security Checks - UEBA",
+    "orderHint": "8585518330263847963Pj",
+    "assigneePriority": "",
+    "percentComplete": 0,
+    "createdDateTime": "2022-04-12T14:31:59.1084166Z",
+    "hasDescription": false,
+    "previewType": "automatic",
+    "referenceCount": 0,
+    "checklistItemCount": 0,
+    "activeChecklistItemCount": 0,
+    "priority": 5,
+    "id": "0tW8vaRNn0WVaPr7WnFzaJcAJU6o",
+    "createdBy": {
+      "user": {
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {},
+    "_assignments": []
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBAUCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "_rNm9dOVgUyClq5UCYlZfJcAG_HO",
+    "title": "Security Checks - SOAR",
+    "orderHint": "8585518330329812459P7",
+    "assigneePriority": "",
+    "percentComplete": 0,
+    "createdDateTime": "2022-04-12T14:31:52.5277107Z",
+    "hasDescription": false,
+    "previewType": "automatic",
+    "referenceCount": 0,
+    "checklistItemCount": 0,
+    "activeChecklistItemCount": 0,
+    "priority": 5,
+    "id": "jNlDuXDRv0GIsdRG5RzLRJcAK8X5",
+    "createdBy": {
+      "user": {
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {},
+    "_assignments": []
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBAUCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "_rNm9dOVgUyClq5UCYlZfJcAG_HO",
+    "title": "Security Checks - Azure",
+    "orderHint": "8585518330434315346PD",
+    "assigneePriority": "",
+    "percentComplete": 0,
+    "createdDateTime": "2022-04-12T14:31:42.1555046Z",
+    "hasDescription": false,
+    "previewType": "automatic",
+    "referenceCount": 0,
+    "checklistItemCount": 0,
+    "activeChecklistItemCount": 0,
+    "priority": 5,
+    "id": "NjxsUgn_3ECWEjxuZ1yN9pcAFQLl",
+    "createdBy": {
+      "user": {
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {},
+    "_assignments": []
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBAdCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "0NhaBRAvVUK7NvTXumKBh5cANCAh",
+    "title": "Präsentation - PAM",
+    "orderHint": "8585547035528775593Pf",
+    "assigneePriority": "",
+    "percentComplete": 0,
+    "createdDateTime": "2022-03-10T09:09:52.6312733Z",
+    "dueDateTime": "2022-10-31T10:00:00Z",
+    "hasDescription": false,
+    "previewType": "checklist",
+    "referenceCount": 0,
+    "checklistItemCount": 1,
+    "activeChecklistItemCount": 1,
+    "priority": 5,
+    "id": "kVO1KKaBmEiaH4-DcvvRkJcAOIph",
+    "createdBy": {
+      "user": {
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {
+      "35932dba-428b-4bb9-bddf-5a98768cdada": {
+        "@odata.type": "#microsoft.graph.plannerAssignment",
+        "assignedDateTime": "2022-03-10T09:09:52.6312733Z",
+        "orderHint": "8585547035528775593P&",
+        "assignedBy": {
+          "user": {
+            "displayName": null,
+            "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+          }
+        }
+      },
+      "cee457d9-3262-4d0e-9a4d-9e9c0bf50b2f": {
+        "@odata.type": "#microsoft.graph.plannerAssignment",
+        "assignedDateTime": "2022-04-01T13:46:06.3023609Z",
+        "orderHint": "8585527861792220963Pr",
+        "assignedBy": {
+          "user": {
+            "displayName": null,
+            "id": "cee457d9-3262-4d0e-9a4d-9e9c0bf50b2f"
+          }
+        }
+      }
+    },
+    "_assignments": [
+      {
+        "userId": "35932dba-428b-4bb9-bddf-5a98768cdada",
+        "value": {
+          "@odata.type": "#microsoft.graph.plannerAssignment",
+          "assignedDateTime": "2022-03-10T09:09:52.6312733Z",
+          "orderHint": "8585547035528775593P&",
+          "assignedBy": {
+            "user": {
+              "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+            }
+          }
+        }
+      },
+      {
+        "userId": "cee457d9-3262-4d0e-9a4d-9e9c0bf50b2f",
+        "value": {
+          "@odata.type": "#microsoft.graph.plannerAssignment",
+          "assignedDateTime": "2022-04-01T13:46:06.3023609Z",
+          "orderHint": "8585527861792220963Pr",
+          "assignedBy": {
+            "user": {
+              "id": "cee457d9-3262-4d0e-9a4d-9e9c0bf50b2f"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBAcCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "XdmCY7UA5U21c85rcrJ2B5cAOJQ8",
+    "title": "SecurepointGmbH - Validierung eine Partnerschaft",
+    "orderHint": "8585134976838095878P,",
+    "assigneePriority": "8585134974717988165",
+    "percentComplete": 100,
+    "createdDateTime": "2023-06-30T07:14:21.7773675Z",
+    "hasDescription": false,
+    "previewType": "checklist",
+    "completedDateTime": "2023-07-26T08:58:48.1729692Z",
+    "referenceCount": 0,
+    "checklistItemCount": 3,
+    "activeChecklistItemCount": 0,
+    "conversationThreadId": "AAQkADljMmQ0NmM0LWVmMWYtNDEwNy05ZTFjLWQ3M2NkYmIxOGFiYQMkABAADkNRBinja0OPztBsbhUB0hAADkNRBinja0OPztBsbhUB0g==",
+    "priority": 5,
+    "id": "eFngx560BkWelGzMS50BWJcABuGX",
+    "createdBy": {
+      "user": {
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      },
+      "application": {
+        "displayName": null,
+        "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+      }
+    },
+    "completedBy": {
+      "user": {
+        "displayName": null,
+        "id": "3b9e3fc8-3480-4b9a-a065-728f0fc21830"
+      },
+      "application": {
+        "displayName": null,
+        "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {
+      "3b9e3fc8-3480-4b9a-a065-728f0fc21830": {
+        "@odata.type": "#microsoft.graph.plannerAssignment",
+        "assignedDateTime": "2023-06-30T07:16:58.8110581Z",
+        "orderHint": "8585134975266821493P]",
+        "assignedBy": {
+          "user": {
+            "displayName": null,
+            "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+          },
+          "application": {
+            "displayName": null,
+            "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+          }
+        }
+      },
+      "d3b8fe93-86cb-4e0b-9572-2eea856e738a": {
+        "@odata.type": "#microsoft.graph.plannerAssignment",
+        "assignedDateTime": "2023-06-30T07:16:53.6787642Z",
+        "orderHint": "8585134975318144381P)",
+        "assignedBy": {
+          "user": {
+            "displayName": null,
+            "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+          },
+          "application": {
+            "displayName": null,
+            "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+          }
+        }
+      }
+    },
+    "_assignments": [
+      {
+        "userId": "3b9e3fc8-3480-4b9a-a065-728f0fc21830",
+        "value": {
+          "@odata.type": "#microsoft.graph.plannerAssignment",
+          "assignedDateTime": "2023-06-30T07:16:58.8110581Z",
+          "orderHint": "8585134975266821493P]",
+          "assignedBy": {
+            "user": {
+              "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+            },
+            "application": {
+              "displayName": null,
+              "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+            }
+          }
+        }
+      },
+      {
+        "userId": "d3b8fe93-86cb-4e0b-9572-2eea856e738a",
+        "value": {
+          "@odata.type": "#microsoft.graph.plannerAssignment",
+          "assignedDateTime": "2023-06-30T07:16:53.6787642Z",
+          "orderHint": "8585134975318144381P)",
+          "assignedBy": {
+            "user": {
+              "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+            },
+            "application": {
+              "displayName": null,
+              "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBATCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "ePUyIK3EMES61bxm-JoK2JcAPS-v",
+    "title": "Vertriebsweg: Verbände etc. sind die Multiplikatoren für solch ein Produkt. IHK etc möglichkeiten sollen sondiert werden ",
+    "orderHint": "8585275662989292459P+",
+    "assigneePriority": "",
+    "percentComplete": 100,
+    "createdDateTime": "2023-01-18T11:17:26.595209Z",
+    "hasDescription": false,
+    "previewType": "automatic",
+    "completedDateTime": "2023-07-25T10:52:10.5580664Z",
+    "referenceCount": 0,
+    "checklistItemCount": 0,
+    "activeChecklistItemCount": 0,
+    "priority": 5,
+    "id": "1zvnHSfFKUmfM-8-uoJo85cAO18U",
+    "createdBy": {
+      "user": {
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      },
+      "application": {
+        "displayName": null,
+        "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+      }
+    },
+    "completedBy": {
+      "user": {
+        "displayName": null,
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      },
+      "application": {
+        "displayName": null,
+        "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {
+      "35932dba-428b-4bb9-bddf-5a98768cdada": {
+        "@odata.type": "#microsoft.graph.plannerAssignment",
+        "assignedDateTime": "2023-01-18T11:17:26.595209Z",
+        "orderHint": "8585275662989292459PV",
+        "assignedBy": {
+          "user": {
+            "displayName": null,
+            "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+          },
+          "application": {
+            "displayName": null,
+            "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+          }
+        }
+      }
+    },
+    "_assignments": [
+      {
+        "userId": "35932dba-428b-4bb9-bddf-5a98768cdada",
+        "value": {
+          "@odata.type": "#microsoft.graph.plannerAssignment",
+          "assignedDateTime": "2023-01-18T11:17:26.595209Z",
+          "orderHint": "8585275662989292459PV",
+          "assignedBy": {
+            "user": {
+              "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+            },
+            "application": {
+              "displayName": null,
+              "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBATCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "ePUyIK3EMES61bxm-JoK2JcAPS-v",
+    "title": "Präsentation: Beispielrechnung , vielleicht nach vorne#",
+    "orderHint": "8585172870314752167PA",
+    "assigneePriority": "",
+    "percentComplete": 100,
+    "createdDateTime": "2023-05-17T10:38:34.0492333Z",
+    "hasDescription": false,
+    "previewType": "automatic",
+    "completedDateTime": "2023-07-25T06:57:26.136222Z",
+    "referenceCount": 0,
+    "checklistItemCount": 0,
+    "activeChecklistItemCount": 0,
+    "priority": 5,
+    "id": "8LbxIZknO0St3eJt_ELlXpcAO91x",
+    "createdBy": {
+      "user": {
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      },
+      "application": {
+        "displayName": null,
+        "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+      }
+    },
+    "completedBy": {
+      "user": {
+        "displayName": null,
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      },
+      "application": {
+        "displayName": null,
+        "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {},
+    "_assignments": []
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBAUCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "ePUyIK3EMES61bxm-JoK2JcAPS-v",
+    "title": "Präsentation: Deutliche Zunahme von Cyberangriffen im Jahr 2021 und 2022",
+    "orderHint": "8585172870068616073Pr",
+    "assigneePriority": "",
+    "percentComplete": 100,
+    "createdDateTime": "2023-05-17T10:38:58.6628568Z",
+    "hasDescription": false,
+    "previewType": "automatic",
+    "completedDateTime": "2023-07-25T06:57:22.0267518Z",
+    "referenceCount": 0,
+    "checklistItemCount": 0,
+    "activeChecklistItemCount": 0,
+    "priority": 5,
+    "id": "UXWCE1FHA0KQRQcr-9pxhpcAIyD0",
+    "createdBy": {
+      "user": {
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      },
+      "application": {
+        "displayName": null,
+        "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+      }
+    },
+    "completedBy": {
+      "user": {
+        "displayName": null,
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      },
+      "application": {
+        "displayName": null,
+        "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {
+      "35932dba-428b-4bb9-bddf-5a98768cdada": {
+        "@odata.type": "#microsoft.graph.plannerAssignment",
+        "assignedDateTime": "2023-05-17T10:39:08.4717369Z",
+        "orderHint": "8585172869970214673P.",
+        "assignedBy": {
+          "user": {
+            "displayName": null,
+            "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+          },
+          "application": {
+            "displayName": null,
+            "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+          }
+        }
+      }
+    },
+    "_assignments": [
+      {
+        "userId": "35932dba-428b-4bb9-bddf-5a98768cdada",
+        "value": {
+          "@odata.type": "#microsoft.graph.plannerAssignment",
+          "assignedDateTime": "2023-05-17T10:39:08.4717369Z",
+          "orderHint": "8585172869970214673P.",
+          "assignedBy": {
+            "user": {
+              "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+            },
+            "application": {
+              "displayName": null,
+              "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBATCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "XdmCY7UA5U21c85rcrJ2B5cAOJQ8",
+    "title": "Wiederverwendete Master-Passwörter",
+    "orderHint": "8585180798257549252PH",
+    "assigneePriority": "",
+    "percentComplete": 100,
+    "createdDateTime": "2023-05-08T06:25:19.7851577Z",
+    "hasDescription": false,
+    "previewType": "automatic",
+    "completedDateTime": "2023-05-26T12:07:24.8860224Z",
+    "referenceCount": 0,
+    "checklistItemCount": 0,
+    "activeChecklistItemCount": 0,
+    "priority": 5,
+    "id": "K-SQRMW3Skqpmam4Chk235cAB_9w",
+    "createdBy": {
+      "user": {
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      },
+      "application": {
+        "displayName": null,
+        "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+      }
+    },
+    "completedBy": {
+      "user": {
+        "displayName": null,
+        "id": "423157f8-9c92-47e9-8fc6-3d17caca04b0"
+      },
+      "application": {
+        "displayName": null,
+        "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {
+      "423157f8-9c92-47e9-8fc6-3d17caca04b0": {
+        "@odata.type": "#microsoft.graph.plannerAssignment",
+        "assignedDateTime": "2023-05-08T06:25:19.7851577Z",
+        "orderHint": "8585180798257549252PK",
+        "assignedBy": {
+          "user": {
+            "displayName": null,
+            "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+          },
+          "application": {
+            "displayName": null,
+            "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+          }
+        }
+      }
+    },
+    "_assignments": [
+      {
+        "userId": "423157f8-9c92-47e9-8fc6-3d17caca04b0",
+        "value": {
+          "@odata.type": "#microsoft.graph.plannerAssignment",
+          "assignedDateTime": "2023-05-08T06:25:19.7851577Z",
+          "orderHint": "8585180798257549252PK",
+          "assignedBy": {
+            "user": {
+              "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+            },
+            "application": {
+              "displayName": null,
+              "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBATCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "ePUyIK3EMES61bxm-JoK2JcAPS-v",
+    "title": "Vertrieb: Ansprechpartner: Roman D. ; NewGenAG",
+    "orderHint": "8585275666001381416P1",
+    "assigneePriority": "",
+    "percentComplete": 100,
+    "createdDateTime": "2023-01-18T11:12:25.3706952Z",
+    "hasDescription": false,
+    "previewType": "automatic",
+    "completedDateTime": "2023-05-17T10:37:14.1253009Z",
+    "referenceCount": 0,
+    "checklistItemCount": 0,
+    "activeChecklistItemCount": 0,
+    "priority": 5,
+    "id": "ZWHtTSisqUOtJkb5rRHjMZcADyOG",
+    "createdBy": {
+      "user": {
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      },
+      "application": {
+        "displayName": null,
+        "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+      }
+    },
+    "completedBy": {
+      "user": {
+        "displayName": null,
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      },
+      "application": {
+        "displayName": null,
+        "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {
+      "35932dba-428b-4bb9-bddf-5a98768cdada": {
+        "@odata.type": "#microsoft.graph.plannerAssignment",
+        "assignedDateTime": "2023-01-18T11:12:25.3706952Z",
+        "orderHint": "8585275666001381416PO",
+        "assignedBy": {
+          "user": {
+            "displayName": null,
+            "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+          },
+          "application": {
+            "displayName": null,
+            "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+          }
+        }
+      }
+    },
+    "_assignments": [
+      {
+        "userId": "35932dba-428b-4bb9-bddf-5a98768cdada",
+        "value": {
+          "@odata.type": "#microsoft.graph.plannerAssignment",
+          "assignedDateTime": "2023-01-18T11:12:25.3706952Z",
+          "orderHint": "8585275666001381416PO",
+          "assignedBy": {
+            "user": {
+              "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+            },
+            "application": {
+              "displayName": null,
+              "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBAUCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "ePUyIK3EMES61bxm-JoK2JcAPS-v",
+    "title": "Success Stories: Steuerberater der gr24",
+    "orderHint": "8585275665032446594Py",
+    "assigneePriority": "",
+    "percentComplete": 100,
+    "createdDateTime": "2023-01-18T11:14:02.2954132Z",
+    "hasDescription": false,
+    "previewType": "automatic",
+    "completedDateTime": "2023-05-17T10:37:10.718986Z",
+    "referenceCount": 0,
+    "checklistItemCount": 0,
+    "activeChecklistItemCount": 0,
+    "priority": 5,
+    "id": "P90LBbjkCEqC-XLikoUGLpcALbeG",
+    "createdBy": {
+      "user": {
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      },
+      "application": {
+        "displayName": null,
+        "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+      }
+    },
+    "completedBy": {
+      "user": {
+        "displayName": null,
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      },
+      "application": {
+        "displayName": null,
+        "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {
+      "e1844a1f-a04a-473d-93d7-ec83d1046323": {
+        "@odata.type": "#microsoft.graph.plannerAssignment",
+        "assignedDateTime": "2023-01-18T11:14:12.4945348Z",
+        "orderHint": "8585275664929986703Pv",
+        "assignedBy": {
+          "user": {
+            "displayName": null,
+            "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+          },
+          "application": {
+            "displayName": null,
+            "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+          }
+        }
+      }
+    },
+    "_assignments": [
+      {
+        "userId": "e1844a1f-a04a-473d-93d7-ec83d1046323",
+        "value": {
+          "@odata.type": "#microsoft.graph.plannerAssignment",
+          "assignedDateTime": "2023-01-18T11:14:12.4945348Z",
+          "orderHint": "8585275664929986703Pv",
+          "assignedBy": {
+            "user": {
+              "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+            },
+            "application": {
+              "displayName": null,
+              "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBATCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "ePUyIK3EMES61bxm-JoK2JcAPS-v",
+    "title": "Abstimmung mit Simone: Folien, Siegel ",
+    "orderHint": "8585275661406463503PU",
+    "assigneePriority": "",
+    "percentComplete": 100,
+    "createdDateTime": "2023-01-18T11:20:04.8624768Z",
+    "hasDescription": false,
+    "previewType": "automatic",
+    "completedDateTime": "2023-05-17T10:37:02.7872544Z",
+    "referenceCount": 0,
+    "checklistItemCount": 0,
+    "activeChecklistItemCount": 0,
+    "priority": 5,
+    "id": "l6rO6qxKj0Sn5CKnUCDOeJcANXVO",
+    "createdBy": {
+      "user": {
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      },
+      "application": {
+        "displayName": null,
+        "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+      }
+    },
+    "completedBy": {
+      "user": {
+        "displayName": null,
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      },
+      "application": {
+        "displayName": null,
+        "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {
+      "35932dba-428b-4bb9-bddf-5a98768cdada": {
+        "@odata.type": "#microsoft.graph.plannerAssignment",
+        "assignedDateTime": "2023-01-18T11:20:04.8624768Z",
+        "orderHint": "8585275661406463503PH",
+        "assignedBy": {
+          "user": {
+            "displayName": null,
+            "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+          },
+          "application": {
+            "displayName": null,
+            "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+          }
+        }
+      }
+    },
+    "_assignments": [
+      {
+        "userId": "35932dba-428b-4bb9-bddf-5a98768cdada",
+        "value": {
+          "@odata.type": "#microsoft.graph.plannerAssignment",
+          "assignedDateTime": "2023-01-18T11:20:04.8624768Z",
+          "orderHint": "8585275661406463503PH",
+          "assignedBy": {
+            "user": {
+              "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+            },
+            "application": {
+              "displayName": null,
+              "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBATCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "ePUyIK3EMES61bxm-JoK2JcAPS-v",
+    "title": "Auf was für ein Kundenprofil ist das Produkt zugeschnitten ? (KMU etc. ? )",
+    "orderHint": "8585275660694428340Pv",
+    "assigneePriority": "",
+    "percentComplete": 100,
+    "createdDateTime": "2023-01-18T11:21:16.1128718Z",
+    "hasDescription": false,
+    "previewType": "automatic",
+    "completedDateTime": "2023-05-17T10:36:59.2475775Z",
+    "referenceCount": 0,
+    "checklistItemCount": 0,
+    "activeChecklistItemCount": 0,
+    "priority": 5,
+    "id": "PFBRQKSlIESw0FxfB0gp6ZcADJpY",
+    "createdBy": {
+      "user": {
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      },
+      "application": {
+        "displayName": null,
+        "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+      }
+    },
+    "completedBy": {
+      "user": {
+        "displayName": null,
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      },
+      "application": {
+        "displayName": null,
+        "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {
+      "35932dba-428b-4bb9-bddf-5a98768cdada": {
+        "@odata.type": "#microsoft.graph.plannerAssignment",
+        "assignedDateTime": "2023-01-18T11:21:16.1128718Z",
+        "orderHint": "8585275660694428340PA",
+        "assignedBy": {
+          "user": {
+            "displayName": null,
+            "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+          },
+          "application": {
+            "displayName": null,
+            "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+          }
+        }
+      }
+    },
+    "_assignments": [
+      {
+        "userId": "35932dba-428b-4bb9-bddf-5a98768cdada",
+        "value": {
+          "@odata.type": "#microsoft.graph.plannerAssignment",
+          "assignedDateTime": "2023-01-18T11:21:16.1128718Z",
+          "orderHint": "8585275660694428340PA",
+          "assignedBy": {
+            "user": {
+              "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+            },
+            "application": {
+              "displayName": null,
+              "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBAUCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "XdmCY7UA5U21c85rcrJ2B5cAOJQ8",
+    "title": "Ausschreibung Recklinghausen ",
+    "orderHint": "8585214419829311208P.",
+    "assigneePriority": "",
+    "percentComplete": 100,
+    "createdDateTime": "2023-03-30T08:29:22.5777028Z",
+    "dueDateTime": "2023-04-17T10:00:00Z",
+    "hasDescription": false,
+    "previewType": "automatic",
+    "completedDateTime": "2023-05-02T13:07:51.8713253Z",
+    "referenceCount": 0,
+    "checklistItemCount": 0,
+    "activeChecklistItemCount": 0,
+    "priority": 5,
+    "id": "Ukthrkpfy0GL2-2DoR79sZcAG8Bl",
+    "createdBy": {
+      "user": {
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      },
+      "application": {
+        "displayName": null,
+        "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+      }
+    },
+    "completedBy": {
+      "user": {
+        "displayName": null,
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      },
+      "application": {
+        "displayName": null,
+        "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {
+      "423157f8-9c92-47e9-8fc6-3d17caca04b0": {
+        "@odata.type": "#microsoft.graph.plannerAssignment",
+        "assignedDateTime": "2023-03-30T08:29:22.5777028Z",
+        "orderHint": "8585214419829311208PI",
+        "assignedBy": {
+          "user": {
+            "displayName": null,
+            "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+          },
+          "application": {
+            "displayName": null,
+            "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+          }
+        }
+      }
+    },
+    "_assignments": [
+      {
+        "userId": "423157f8-9c92-47e9-8fc6-3d17caca04b0",
+        "value": {
+          "@odata.type": "#microsoft.graph.plannerAssignment",
+          "assignedDateTime": "2023-03-30T08:29:22.5777028Z",
+          "orderHint": "8585214419829311208PI",
+          "assignedBy": {
+            "user": {
+              "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+            },
+            "application": {
+              "displayName": null,
+              "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBAaCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "XdmCY7UA5U21c85rcrJ2B5cAOJQ8",
+    "title": "Präsentation - Security Check Azure",
+    "orderHint": "8585547034623860011PX",
+    "assigneePriority": "",
+    "percentComplete": 100,
+    "createdDateTime": "2022-03-10T09:11:23.1853337Z",
+    "dueDateTime": "2023-01-31T10:00:00Z",
+    "hasDescription": false,
+    "previewType": "automatic",
+    "completedDateTime": "2023-03-27T11:59:50.4942477Z",
+    "referenceCount": 0,
+    "checklistItemCount": 0,
+    "activeChecklistItemCount": 0,
+    "priority": 5,
+    "id": "5fjzcp2mpUK8p_AbT47BRJcAGrdj",
+    "createdBy": {
+      "user": {
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      }
+    },
+    "completedBy": {
+      "user": {
+        "displayName": null,
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      },
+      "application": {
+        "displayName": null,
+        "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {
+      "35932dba-428b-4bb9-bddf-5a98768cdada": {
+        "@odata.type": "#microsoft.graph.plannerAssignment",
+        "assignedDateTime": "2022-03-10T09:11:23.1853337Z",
+        "orderHint": "8585547034623860011P|",
+        "assignedBy": {
+          "user": {
+            "displayName": null,
+            "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+          }
+        }
+      }
+    },
+    "_assignments": [
+      {
+        "userId": "35932dba-428b-4bb9-bddf-5a98768cdada",
+        "value": {
+          "@odata.type": "#microsoft.graph.plannerAssignment",
+          "assignedDateTime": "2022-03-10T09:11:23.1853337Z",
+          "orderHint": "8585547034623860011P|",
+          "assignedBy": {
+            "user": {
+              "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBBQCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "XdmCY7UA5U21c85rcrJ2B5cAOJQ8",
+    "title": "Präsentation - Managed VMS",
+    "orderHint": "8585547036006693533P\"",
+    "assigneePriority": "",
+    "percentComplete": 100,
+    "createdDateTime": "2022-03-10T09:09:04.8707342Z",
+    "dueDateTime": "2022-09-30T10:00:00Z",
+    "hasDescription": false,
+    "previewType": "automatic",
+    "completedDateTime": "2023-03-27T11:59:48.7138208Z",
+    "referenceCount": 0,
+    "checklistItemCount": 0,
+    "activeChecklistItemCount": 0,
+    "priority": 5,
+    "id": "051hgKhYrk-8yXarXP4YlpcAG87V",
+    "createdBy": {
+      "user": {
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      }
+    },
+    "completedBy": {
+      "user": {
+        "displayName": null,
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      },
+      "application": {
+        "displayName": null,
+        "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {
+      "35932dba-428b-4bb9-bddf-5a98768cdada": {
+        "@odata.type": "#microsoft.graph.plannerAssignment",
+        "assignedDateTime": "2022-03-10T09:09:04.8707342Z",
+        "orderHint": "8585547036006693533PW",
+        "assignedBy": {
+          "user": {
+            "displayName": null,
+            "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+          }
+        }
+      },
+      "cee457d9-3262-4d0e-9a4d-9e9c0bf50b2f": {
+        "@odata.type": "#microsoft.graph.plannerAssignment",
+        "assignedDateTime": "2022-04-01T13:45:43.2598915Z",
+        "orderHint": "8585527862022645660P3",
+        "assignedBy": {
+          "user": {
+            "displayName": null,
+            "id": "cee457d9-3262-4d0e-9a4d-9e9c0bf50b2f"
+          }
+        }
+      }
+    },
+    "_assignments": [
+      {
+        "userId": "35932dba-428b-4bb9-bddf-5a98768cdada",
+        "value": {
+          "@odata.type": "#microsoft.graph.plannerAssignment",
+          "assignedDateTime": "2022-03-10T09:09:04.8707342Z",
+          "orderHint": "8585547036006693533PW",
+          "assignedBy": {
+            "user": {
+              "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+            }
+          }
+        }
+      },
+      {
+        "userId": "cee457d9-3262-4d0e-9a4d-9e9c0bf50b2f",
+        "value": {
+          "@odata.type": "#microsoft.graph.plannerAssignment",
+          "assignedDateTime": "2022-04-01T13:45:43.2598915Z",
+          "orderHint": "8585527862022645660P3",
+          "assignedBy": {
+            "user": {
+              "id": "cee457d9-3262-4d0e-9a4d-9e9c0bf50b2f"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBAUCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "ePUyIK3EMES61bxm-JoK2JcAPS-v",
+    "title": "Vertriebsweg: Andreas spricht Jonas an. Klären ob das Unternehmerfrühstück eine Slot bietet um für das Produkt zu werben",
+    "orderHint": "8585275664317904191P)",
+    "assigneePriority": "",
+    "percentComplete": 100,
+    "createdDateTime": "2023-01-18T11:15:13.7652857Z",
+    "hasDescription": false,
+    "previewType": "automatic",
+    "completedDateTime": "2023-02-24T15:49:27.7782883Z",
+    "referenceCount": 0,
+    "checklistItemCount": 0,
+    "activeChecklistItemCount": 0,
+    "priority": 5,
+    "id": "SZsfU22vfUCtzSRJqtTxppcAGUUj",
+    "createdBy": {
+      "user": {
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      },
+      "application": {
+        "displayName": null,
+        "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+      }
+    },
+    "completedBy": {
+      "user": {
+        "displayName": null,
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      },
+      "application": {
+        "displayName": null,
+        "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {
+      "35932dba-428b-4bb9-bddf-5a98768cdada": {
+        "@odata.type": "#microsoft.graph.plannerAssignment",
+        "assignedDateTime": "2023-01-18T11:15:13.7652857Z",
+        "orderHint": "8585275664317904191PD",
+        "assignedBy": {
+          "user": {
+            "displayName": null,
+            "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+          },
+          "application": {
+            "displayName": null,
+            "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+          }
+        }
+      }
+    },
+    "_assignments": [
+      {
+        "userId": "35932dba-428b-4bb9-bddf-5a98768cdada",
+        "value": {
+          "@odata.type": "#microsoft.graph.plannerAssignment",
+          "assignedDateTime": "2023-01-18T11:15:13.7652857Z",
+          "orderHint": "8585275664317904191PD",
+          "assignedBy": {
+            "user": {
+              "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+            },
+            "application": {
+              "displayName": null,
+              "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBATCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "ePUyIK3EMES61bxm-JoK2JcAPS-v",
+    "title": "Andreas spricht Max an ob wir den Service auf die Website bekommen, in form eins Produktes welches in den Warenkorb gelegt werden kann.",
+    "orderHint": "8585275663606800519P#",
+    "assigneePriority": "",
+    "percentComplete": 100,
+    "createdDateTime": "2023-01-18T11:16:24.828785Z",
+    "hasDescription": false,
+    "previewType": "automatic",
+    "completedDateTime": "2023-02-24T15:49:22.3738939Z",
+    "referenceCount": 0,
+    "checklistItemCount": 0,
+    "activeChecklistItemCount": 0,
+    "priority": 5,
+    "id": "t7iW8PwlQ0GhqerR_gMIlZcANBv0",
+    "createdBy": {
+      "user": {
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      },
+      "application": {
+        "displayName": null,
+        "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+      }
+    },
+    "completedBy": {
+      "user": {
+        "displayName": null,
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      },
+      "application": {
+        "displayName": null,
+        "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {
+      "35932dba-428b-4bb9-bddf-5a98768cdada": {
+        "@odata.type": "#microsoft.graph.plannerAssignment",
+        "assignedDateTime": "2023-01-18T11:16:24.828785Z",
+        "orderHint": "8585275663606800519Pz",
+        "assignedBy": {
+          "user": {
+            "displayName": null,
+            "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+          },
+          "application": {
+            "displayName": null,
+            "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+          }
+        }
+      }
+    },
+    "_assignments": [
+      {
+        "userId": "35932dba-428b-4bb9-bddf-5a98768cdada",
+        "value": {
+          "@odata.type": "#microsoft.graph.plannerAssignment",
+          "assignedDateTime": "2023-01-18T11:16:24.828785Z",
+          "orderHint": "8585275663606800519Pz",
+          "assignedBy": {
+            "user": {
+              "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+            },
+            "application": {
+              "displayName": null,
+              "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBATCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "ePUyIK3EMES61bxm-JoK2JcAPS-v",
+    "title": "MID Digital - Förderung für die gr24 Immonilien gbr  beantragen",
+    "orderHint": "8585275662161023030P>",
+    "assigneePriority": "",
+    "percentComplete": 100,
+    "createdDateTime": "2023-01-18T11:18:49.4065294Z",
+    "hasDescription": false,
+    "previewType": "automatic",
+    "completedDateTime": "2023-02-24T15:49:13.76403Z",
+    "referenceCount": 0,
+    "checklistItemCount": 0,
+    "activeChecklistItemCount": 0,
+    "priority": 5,
+    "id": "EpYgU1PGE0OmUqfwV3sSD5cAAOV_",
+    "createdBy": {
+      "user": {
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      },
+      "application": {
+        "displayName": null,
+        "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+      }
+    },
+    "completedBy": {
+      "user": {
+        "displayName": null,
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      },
+      "application": {
+        "displayName": null,
+        "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {
+      "35932dba-428b-4bb9-bddf-5a98768cdada": {
+        "@odata.type": "#microsoft.graph.plannerAssignment",
+        "assignedDateTime": "2023-01-18T11:18:49.4065294Z",
+        "orderHint": "8585275662161023030PL",
+        "assignedBy": {
+          "user": {
+            "displayName": null,
+            "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+          },
+          "application": {
+            "displayName": null,
+            "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+          }
+        }
+      }
+    },
+    "_assignments": [
+      {
+        "userId": "35932dba-428b-4bb9-bddf-5a98768cdada",
+        "value": {
+          "@odata.type": "#microsoft.graph.plannerAssignment",
+          "assignedDateTime": "2023-01-18T11:18:49.4065294Z",
+          "orderHint": "8585275662161023030PL",
+          "assignedBy": {
+            "user": {
+              "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+            },
+            "application": {
+              "displayName": null,
+              "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBAdCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "0NhaBRAvVUK7NvTXumKBh5cANCAh",
+    "title": "Blogartikel - Andreas Heit",
+    "orderHint": "8585458816353588592Pz",
+    "assigneePriority": "",
+    "percentComplete": 100,
+    "createdDateTime": "2022-06-20T11:41:50.134345Z",
+    "dueDateTime": "2022-09-30T10:00:00Z",
+    "hasDescription": true,
+    "previewType": "description",
+    "completedDateTime": "2023-02-20T12:18:10.9317907Z",
+    "referenceCount": 0,
+    "checklistItemCount": 0,
+    "activeChecklistItemCount": 0,
+    "priority": 5,
+    "id": "RmeZspfdXEe1eQN_jJlDGZcAP5k4",
+    "createdBy": {
+      "user": {
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      }
+    },
+    "completedBy": {
+      "user": {
+        "displayName": null,
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      },
+      "application": {
+        "displayName": null,
+        "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {},
+    "_assignments": []
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBBcCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "0NhaBRAvVUK7NvTXumKBh5cANCAh",
+    "title": "Blogartikel - Andreas Badry",
+    "orderHint": "8585458816618512996P{",
+    "assigneePriority": "",
+    "percentComplete": 100,
+    "createdDateTime": "2022-06-20T11:41:23.845046Z",
+    "dueDateTime": "2022-12-31T10:00:00Z",
+    "hasDescription": false,
+    "previewType": "checklist",
+    "completedDateTime": "2023-02-20T12:18:10.2313491Z",
+    "referenceCount": 0,
+    "checklistItemCount": 3,
+    "activeChecklistItemCount": 1,
+    "priority": 5,
+    "id": "XH3oFzhA8E2PB1xYIHVZ25cABP6A",
+    "createdBy": {
+      "user": {
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      }
+    },
+    "completedBy": {
+      "user": {
+        "displayName": null,
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      },
+      "application": {
+        "displayName": null,
+        "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {},
+    "_assignments": []
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBAeCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "0NhaBRAvVUK7NvTXumKBh5cANCAh",
+    "title": "Kunden gewinnen",
+    "orderHint": "8585446720379827787P\"",
+    "assigneePriority": "",
+    "percentComplete": 100,
+    "createdDateTime": "2022-07-04T11:41:47.6198164Z",
+    "hasDescription": false,
+    "previewType": "checklist",
+    "completedDateTime": "2023-02-20T12:18:04.6816296Z",
+    "referenceCount": 0,
+    "checklistItemCount": 4,
+    "activeChecklistItemCount": 3,
+    "priority": 5,
+    "id": "kZBrF6pAJ0ahzRj7WIddQJcANxiu",
+    "createdBy": {
+      "user": {
+        "id": "cee457d9-3262-4d0e-9a4d-9e9c0bf50b2f"
+      }
+    },
+    "completedBy": {
+      "user": {
+        "displayName": null,
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      },
+      "application": {
+        "displayName": null,
+        "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {},
+    "_assignments": []
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBAYCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "0NhaBRAvVUK7NvTXumKBh5cANCAh",
+    "title": "Inhalt Security Awarness Training ",
+    "orderHint": "8585395692508960406PB",
+    "assigneePriority": "",
+    "percentComplete": 100,
+    "createdDateTime": "2022-09-01T13:08:14.5971725Z",
+    "dueDateTime": "2022-12-15T10:00:00Z",
+    "hasDescription": true,
+    "previewType": "description",
+    "completedDateTime": "2023-01-20T13:55:57.7672081Z",
+    "referenceCount": 0,
+    "checklistItemCount": 0,
+    "activeChecklistItemCount": 0,
+    "priority": 5,
+    "id": "-jhacD7KKkq6QqMuKCTJypcAKktd",
+    "createdBy": {
+      "user": {
+        "id": "423157f8-9c92-47e9-8fc6-3d17caca04b0"
+      },
+      "application": {
+        "displayName": null,
+        "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+      }
+    },
+    "completedBy": {
+      "user": {
+        "displayName": null,
+        "id": "423157f8-9c92-47e9-8fc6-3d17caca04b0"
+      },
+      "application": {
+        "displayName": null,
+        "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {
+      "423157f8-9c92-47e9-8fc6-3d17caca04b0": {
+        "@odata.type": "#microsoft.graph.plannerAssignment",
+        "assignedDateTime": "2022-09-01T13:08:14.5971725Z",
+        "orderHint": "8585395692508960406PU",
+        "assignedBy": {
+          "user": {
+            "displayName": null,
+            "id": "423157f8-9c92-47e9-8fc6-3d17caca04b0"
+          }
+        }
+      }
+    },
+    "_assignments": [
+      {
+        "userId": "423157f8-9c92-47e9-8fc6-3d17caca04b0",
+        "value": {
+          "@odata.type": "#microsoft.graph.plannerAssignment",
+          "assignedDateTime": "2022-09-01T13:08:14.5971725Z",
+          "orderHint": "8585395692508960406PU",
+          "assignedBy": {
+            "user": {
+              "id": "423157f8-9c92-47e9-8fc6-3d17caca04b0"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBAbCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "0NhaBRAvVUK7NvTXumKBh5cANCAh",
+    "title": "Blogartikel - Cihat",
+    "orderHint": "8585398306005635369P+",
+    "assigneePriority": "",
+    "percentComplete": 100,
+    "createdDateTime": "2022-08-29T12:32:24.9452958Z",
+    "dueDateTime": "2022-11-25T10:00:00Z",
+    "hasDescription": true,
+    "previewType": "description",
+    "completedDateTime": "2022-12-05T12:16:41.7231471Z",
+    "referenceCount": 0,
+    "checklistItemCount": 0,
+    "activeChecklistItemCount": 0,
+    "conversationThreadId": "AAQkADljMmQ0NmM0LWVmMWYtNDEwNy05ZTFjLWQ3M2NkYmIxOGFiYQMkABAAneqfWk3qsk2JnJ2ihe3h8xAAneqfWk3qsk2JnJ2ihe3h8w==",
+    "priority": 5,
+    "id": "jFi-FrnS1ku4E6wpfk3ZpZcAAKp7",
+    "createdBy": {
+      "user": {
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      },
+      "application": {
+        "displayName": null,
+        "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+      }
+    },
+    "completedBy": {
+      "user": {
+        "displayName": null,
+        "id": "423157f8-9c92-47e9-8fc6-3d17caca04b0"
+      },
+      "application": {
+        "displayName": null,
+        "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {
+      "423157f8-9c92-47e9-8fc6-3d17caca04b0": {
+        "@odata.type": "#microsoft.graph.plannerAssignment",
+        "assignedDateTime": "2022-08-29T12:32:24.9452958Z",
+        "orderHint": "8585398306005635369P'",
+        "assignedBy": {
+          "user": {
+            "displayName": null,
+            "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+          }
+        }
+      }
+    },
+    "_assignments": [
+      {
+        "userId": "423157f8-9c92-47e9-8fc6-3d17caca04b0",
+        "value": {
+          "@odata.type": "#microsoft.graph.plannerAssignment",
+          "assignedDateTime": "2022-08-29T12:32:24.9452958Z",
+          "orderHint": "8585398306005635369P'",
+          "assignedBy": {
+            "user": {
+              "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBAXCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "0NhaBRAvVUK7NvTXumKBh5cANCAh",
+    "title": "Schulungsplan / Skillplanung",
+    "orderHint": "8585392425112837178Pq",
+    "assigneePriority": "",
+    "percentComplete": 100,
+    "createdDateTime": "2022-09-05T07:53:54.2407412Z",
+    "hasDescription": false,
+    "previewType": "automatic",
+    "completedDateTime": "2022-11-04T13:17:23.1912443Z",
+    "referenceCount": 0,
+    "checklistItemCount": 0,
+    "activeChecklistItemCount": 0,
+    "priority": 5,
+    "id": "A4mGTN6Zo0eRXsvaL6T0X5cAFpuq",
+    "createdBy": {
+      "user": {
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      },
+      "application": {
+        "displayName": null,
+        "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+      }
+    },
+    "completedBy": {
+      "user": {
+        "displayName": null,
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      },
+      "application": {
+        "displayName": null,
+        "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {
+      "423157f8-9c92-47e9-8fc6-3d17caca04b0": {
+        "@odata.type": "#microsoft.graph.plannerAssignment",
+        "assignedDateTime": "2022-09-05T07:53:54.2407412Z",
+        "orderHint": "8585392425112837178PA",
+        "assignedBy": {
+          "user": {
+            "displayName": null,
+            "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+          }
+        }
+      }
+    },
+    "_assignments": [
+      {
+        "userId": "423157f8-9c92-47e9-8fc6-3d17caca04b0",
+        "value": {
+          "@odata.type": "#microsoft.graph.plannerAssignment",
+          "assignedDateTime": "2022-09-05T07:53:54.2407412Z",
+          "orderHint": "8585392425112837178PA",
+          "assignedBy": {
+            "user": {
+              "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBAXCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "XdmCY7UA5U21c85rcrJ2B5cAOJQ8",
+    "title": " ISO Zertifizierung ",
+    "orderHint": "8585446717634428031PA",
+    "assigneePriority": "",
+    "percentComplete": 100,
+    "createdDateTime": "2022-07-04T11:46:22.0504056Z",
+    "hasDescription": false,
+    "previewType": "checklist",
+    "completedDateTime": "2022-11-04T08:44:20.2484118Z",
+    "referenceCount": 0,
+    "checklistItemCount": 1,
+    "activeChecklistItemCount": 1,
+    "priority": 5,
+    "id": "tf20P9JBr0mJ4y5Igcj7LJcAKezb",
+    "createdBy": {
+      "user": {
+        "id": "cee457d9-3262-4d0e-9a4d-9e9c0bf50b2f"
+      }
+    },
+    "completedBy": {
+      "user": {
+        "displayName": null,
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      },
+      "application": {
+        "displayName": null,
+        "id": "5e3ce6c0-2b1f-4285-8d4b-75ee78787346"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {},
+    "_assignments": []
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBAVCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "XdmCY7UA5U21c85rcrJ2B5cAOJQ8",
+    "title": "Grillen Düsseldorf",
+    "orderHint": "8585414860629527269P0",
+    "assigneePriority": "",
+    "percentComplete": 100,
+    "createdDateTime": "2022-08-10T08:41:22.5561057Z",
+    "hasDescription": false,
+    "previewType": "checklist",
+    "completedDateTime": "2022-09-12T12:28:13.7781806Z",
+    "referenceCount": 0,
+    "checklistItemCount": 1,
+    "activeChecklistItemCount": 1,
+    "priority": 5,
+    "id": "lucrtEhnZkCWYh0cN9_LqJcAEv1M",
+    "createdBy": {
+      "user": {
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      }
+    },
+    "completedBy": {
+      "user": {
+        "displayName": null,
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {},
+    "_assignments": []
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBAUCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "XdmCY7UA5U21c85rcrJ2B5cAOJQ8",
+    "title": "EDAG SIEM Beratung",
+    "orderHint": "8585409737580904414P+",
+    "assigneePriority": "",
+    "percentComplete": 100,
+    "createdDateTime": "2022-08-16T06:59:47.4340233Z",
+    "hasDescription": false,
+    "previewType": "automatic",
+    "completedDateTime": "2022-09-12T12:28:06.1838293Z",
+    "referenceCount": 0,
+    "checklistItemCount": 0,
+    "activeChecklistItemCount": 0,
+    "priority": 5,
+    "id": "wTMigxy6W0u-oZ2pavVsPJcAIWR-",
+    "createdBy": {
+      "user": {
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      }
+    },
+    "completedBy": {
+      "user": {
+        "displayName": null,
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {
+      "35932dba-428b-4bb9-bddf-5a98768cdada": {
+        "@odata.type": "#microsoft.graph.plannerAssignment",
+        "assignedDateTime": "2022-08-16T06:59:47.4340233Z",
+        "orderHint": "8585409737580904414P8",
+        "assignedBy": {
+          "user": {
+            "displayName": null,
+            "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+          }
+        }
+      }
+    },
+    "_assignments": [
+      {
+        "userId": "35932dba-428b-4bb9-bddf-5a98768cdada",
+        "value": {
+          "@odata.type": "#microsoft.graph.plannerAssignment",
+          "assignedDateTime": "2022-08-16T06:59:47.4340233Z",
+          "orderHint": "8585409737580904414P8",
+          "assignedBy": {
+            "user": {
+              "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBAdCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "0NhaBRAvVUK7NvTXumKBh5cANCAh",
+    "title": "Blogartikel - Benjamin Schmidt",
+    "orderHint": "8585458816451248032P3",
+    "assigneePriority": "",
+    "percentComplete": 100,
+    "createdDateTime": "2022-06-20T11:41:40.3684142Z",
+    "dueDateTime": "2022-07-29T10:00:00Z",
+    "hasDescription": true,
+    "previewType": "description",
+    "completedDateTime": "2022-08-29T11:20:22.3570635Z",
+    "referenceCount": 0,
+    "checklistItemCount": 0,
+    "activeChecklistItemCount": 0,
+    "priority": 5,
+    "id": "qzPAXVtq9U6CeYfKX3rKkpcAL6Lz",
+    "createdBy": {
+      "user": {
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      }
+    },
+    "completedBy": {
+      "user": {
+        "displayName": null,
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {},
+    "_assignments": []
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBDVCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "XdmCY7UA5U21c85rcrJ2B5cAOJQ8",
+    "title": "Vorlagen - Security Services",
+    "orderHint": "8585518381519707777Ps",
+    "assigneePriority": "",
+    "percentComplete": 100,
+    "createdDateTime": "2022-04-12T13:06:33.8349333Z",
+    "dueDateTime": "2022-08-19T10:00:00Z",
+    "hasDescription": false,
+    "previewType": "checklist",
+    "completedDateTime": "2022-08-29T11:19:05.5752704Z",
+    "referenceCount": 0,
+    "checklistItemCount": 9,
+    "activeChecklistItemCount": 0,
+    "priority": 5,
+    "id": "TKnqLybA5kWkF9BlZ_1tyJcAEEI0",
+    "createdBy": {
+      "user": {
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      }
+    },
+    "completedBy": {
+      "user": {
+        "displayName": null,
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {
+      "35932dba-428b-4bb9-bddf-5a98768cdada": {
+        "@odata.type": "#microsoft.graph.plannerAssignment",
+        "assignedDateTime": "2022-04-12T13:06:33.8349333Z",
+        "orderHint": "8585518381519707777P6",
+        "assignedBy": {
+          "user": {
+            "displayName": null,
+            "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+          }
+        }
+      },
+      "2a21ff9e-7568-40ba-8664-2feca4ef6431": {
+        "@odata.type": "#microsoft.graph.plannerAssignment",
+        "assignedDateTime": "2022-05-09T11:22:06.1130363Z",
+        "orderHint": "8585495116193957956Pz",
+        "assignedBy": {
+          "user": {
+            "displayName": null,
+            "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+          }
+        }
+      },
+      "cee457d9-3262-4d0e-9a4d-9e9c0bf50b2f": {
+        "@odata.type": "#microsoft.graph.plannerAssignment",
+        "assignedDateTime": "2022-04-12T13:06:33.8349333Z",
+        "orderHint": "8585518381519707777Pk",
+        "assignedBy": {
+          "user": {
+            "displayName": null,
+            "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+          }
+        }
+      }
+    },
+    "_assignments": [
+      {
+        "userId": "35932dba-428b-4bb9-bddf-5a98768cdada",
+        "value": {
+          "@odata.type": "#microsoft.graph.plannerAssignment",
+          "assignedDateTime": "2022-04-12T13:06:33.8349333Z",
+          "orderHint": "8585518381519707777P6",
+          "assignedBy": {
+            "user": {
+              "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+            }
+          }
+        }
+      },
+      {
+        "userId": "2a21ff9e-7568-40ba-8664-2feca4ef6431",
+        "value": {
+          "@odata.type": "#microsoft.graph.plannerAssignment",
+          "assignedDateTime": "2022-05-09T11:22:06.1130363Z",
+          "orderHint": "8585495116193957956Pz",
+          "assignedBy": {
+            "user": {
+              "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+            }
+          }
+        }
+      },
+      {
+        "userId": "cee457d9-3262-4d0e-9a4d-9e9c0bf50b2f",
+        "value": {
+          "@odata.type": "#microsoft.graph.plannerAssignment",
+          "assignedDateTime": "2022-04-12T13:06:33.8349333Z",
+          "orderHint": "8585518381519707777Pk",
+          "assignedBy": {
+            "user": {
+              "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBAWCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "XdmCY7UA5U21c85rcrJ2B5cAOJQ8",
+    "title": "Motel one Security",
+    "orderHint": "8585409737344631291PZ",
+    "assigneePriority": "",
+    "percentComplete": 100,
+    "createdDateTime": "2022-08-16T07:00:11.0457008Z",
+    "hasDescription": false,
+    "previewType": "automatic",
+    "completedDateTime": "2022-08-29T11:07:14.1796883Z",
+    "referenceCount": 0,
+    "checklistItemCount": 0,
+    "activeChecklistItemCount": 0,
+    "priority": 5,
+    "id": "4mLZPxoTnE21RVWEwGlop5cACU2H",
+    "createdBy": {
+      "user": {
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      }
+    },
+    "completedBy": {
+      "user": {
+        "displayName": null,
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {
+      "35932dba-428b-4bb9-bddf-5a98768cdada": {
+        "@odata.type": "#microsoft.graph.plannerAssignment",
+        "assignedDateTime": "2022-08-16T07:00:11.0457008Z",
+        "orderHint": "8585409737344631291P3",
+        "assignedBy": {
+          "user": {
+            "displayName": null,
+            "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+          }
+        }
+      }
+    },
+    "_assignments": [
+      {
+        "userId": "35932dba-428b-4bb9-bddf-5a98768cdada",
+        "value": {
+          "@odata.type": "#microsoft.graph.plannerAssignment",
+          "assignedDateTime": "2022-08-16T07:00:11.0457008Z",
+          "orderHint": "8585409737344631291P3",
+          "assignedBy": {
+            "user": {
+              "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBAbCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "XdmCY7UA5U21c85rcrJ2B5cAOJQ8",
+    "title": "Thread Intelligents",
+    "orderHint": "8585518389500952308PF",
+    "assigneePriority": "",
+    "percentComplete": 100,
+    "createdDateTime": "2022-04-12T12:53:15.4136189Z",
+    "dueDateTime": "2022-07-15T10:00:00Z",
+    "hasDescription": false,
+    "previewType": "checklist",
+    "completedDateTime": "2022-08-10T08:36:51.9913677Z",
+    "referenceCount": 0,
+    "checklistItemCount": 2,
+    "activeChecklistItemCount": 0,
+    "priority": 5,
+    "id": "tK3PB2BKAU27BF0_Fu3_XpcADPz6",
+    "createdBy": {
+      "user": {
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      }
+    },
+    "completedBy": {
+      "user": {
+        "displayName": null,
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {
+      "cee457d9-3262-4d0e-9a4d-9e9c0bf50b2f": {
+        "@odata.type": "#microsoft.graph.plannerAssignment",
+        "assignedDateTime": "2022-04-12T12:53:15.4136189Z",
+        "orderHint": "8585518389500952308Pe",
+        "assignedBy": {
+          "user": {
+            "displayName": null,
+            "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+          }
+        }
+      }
+    },
+    "_assignments": [
+      {
+        "userId": "cee457d9-3262-4d0e-9a4d-9e9c0bf50b2f",
+        "value": {
+          "@odata.type": "#microsoft.graph.plannerAssignment",
+          "assignedDateTime": "2022-04-12T12:53:15.4136189Z",
+          "orderHint": "8585518389500952308Pe",
+          "assignedBy": {
+            "user": {
+              "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBAYCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "XdmCY7UA5U21c85rcrJ2B5cAOJQ8",
+    "title": "Partner LogPoint",
+    "orderHint": "8585518388112654108P)",
+    "assigneePriority": "",
+    "percentComplete": 100,
+    "createdDateTime": "2022-04-12T12:55:34.2590506Z",
+    "dueDateTime": "2022-07-01T10:00:00Z",
+    "hasDescription": false,
+    "previewType": "automatic",
+    "completedDateTime": "2022-08-10T08:35:48.9865808Z",
+    "referenceCount": 0,
+    "checklistItemCount": 0,
+    "activeChecklistItemCount": 0,
+    "priority": 5,
+    "id": "gVe7syLsnE-B3oIuO4Kg05cAG06V",
+    "createdBy": {
+      "user": {
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      }
+    },
+    "completedBy": {
+      "user": {
+        "displayName": null,
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {
+      "35932dba-428b-4bb9-bddf-5a98768cdada": {
+        "@odata.type": "#microsoft.graph.plannerAssignment",
+        "assignedDateTime": "2022-04-12T12:55:34.2590506Z",
+        "orderHint": "8585518388112654108PS",
+        "assignedBy": {
+          "user": {
+            "displayName": null,
+            "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+          }
+        }
+      }
+    },
+    "_assignments": [
+      {
+        "userId": "35932dba-428b-4bb9-bddf-5a98768cdada",
+        "value": {
+          "@odata.type": "#microsoft.graph.plannerAssignment",
+          "assignedDateTime": "2022-04-12T12:55:34.2590506Z",
+          "orderHint": "8585518388112654108PS",
+          "assignedBy": {
+            "user": {
+              "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBAWCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "XdmCY7UA5U21c85rcrJ2B5cAOJQ8",
+    "title": "100 Tage bei der GR24",
+    "orderHint": "8585483033756176835P$",
+    "assigneePriority": "",
+    "percentComplete": 100,
+    "createdDateTime": "2022-05-23T10:59:29.875522Z",
+    "hasDescription": false,
+    "previewType": "automatic",
+    "completedDateTime": "2022-08-10T08:26:03.2288155Z",
+    "referenceCount": 0,
+    "checklistItemCount": 0,
+    "activeChecklistItemCount": 0,
+    "priority": 5,
+    "id": "hiz_CymWkkCTksjkPfJkuZcANNrY",
+    "createdBy": {
+      "user": {
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      }
+    },
+    "completedBy": {
+      "user": {
+        "displayName": null,
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {
+      "35932dba-428b-4bb9-bddf-5a98768cdada": {
+        "@odata.type": "#microsoft.graph.plannerAssignment",
+        "assignedDateTime": "2022-05-23T10:59:29.875522Z",
+        "orderHint": "8585483033756176835P5",
+        "assignedBy": {
+          "user": {
+            "displayName": null,
+            "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+          }
+        }
+      }
+    },
+    "_assignments": [
+      {
+        "userId": "35932dba-428b-4bb9-bddf-5a98768cdada",
+        "value": {
+          "@odata.type": "#microsoft.graph.plannerAssignment",
+          "assignedDateTime": "2022-05-23T10:59:29.875522Z",
+          "orderHint": "8585483033756176835P5",
+          "assignedBy": {
+            "user": {
+              "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBAaCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "XdmCY7UA5U21c85rcrJ2B5cAOJQ8",
+    "title": "Teilnehme an der Allianz für Cyber-Sicherhei",
+    "orderHint": "8585486362335954806PF",
+    "assigneePriority": "",
+    "percentComplete": 100,
+    "startDateTime": "2022-05-20T10:00:00Z",
+    "createdDateTime": "2022-05-19T14:31:52.0071752Z",
+    "hasDescription": true,
+    "previewType": "description",
+    "completedDateTime": "2022-07-04T09:44:23.1695402Z",
+    "referenceCount": 0,
+    "checklistItemCount": 0,
+    "activeChecklistItemCount": 0,
+    "conversationThreadId": "AAQkADljMmQ0NmM0LWVmMWYtNDEwNy05ZTFjLWQ3M2NkYmIxOGFiYQMkABAALP26cXCeWE2TQEOwst6DBBAALP26cXCeWE2TQEOwst6DBA==",
+    "priority": 5,
+    "id": "_EELYStdkE2AxuYUdPMFlpcAHJlj",
+    "createdBy": {
+      "user": {
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      }
+    },
+    "completedBy": {
+      "user": {
+        "displayName": null,
+        "id": "2a21ff9e-7568-40ba-8664-2feca4ef6431"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {
+      "2a21ff9e-7568-40ba-8664-2feca4ef6431": {
+        "@odata.type": "#microsoft.graph.plannerAssignment",
+        "assignedDateTime": "2022-05-19T14:31:52.0071752Z",
+        "orderHint": "8585486362335954806PU",
+        "assignedBy": {
+          "user": {
+            "displayName": null,
+            "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+          }
+        }
+      }
+    },
+    "_assignments": [
+      {
+        "userId": "2a21ff9e-7568-40ba-8664-2feca4ef6431",
+        "value": {
+          "@odata.type": "#microsoft.graph.plannerAssignment",
+          "assignedDateTime": "2022-05-19T14:31:52.0071752Z",
+          "orderHint": "8585486362335954806PU",
+          "assignedBy": {
+            "user": {
+              "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBAWCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "XdmCY7UA5U21c85rcrJ2B5cAOJQ8",
+    "title": "https://www.cert-bund.de/register Kannst Du uns da auch registrieren ?",
+    "orderHint": "8585479569553761433P{",
+    "assigneePriority": "",
+    "percentComplete": 100,
+    "createdDateTime": "2022-05-27T11:13:10.1170526Z",
+    "hasDescription": false,
+    "previewType": "automatic",
+    "completedDateTime": "2022-05-27T13:30:23.6274811Z",
+    "referenceCount": 0,
+    "checklistItemCount": 0,
+    "activeChecklistItemCount": 0,
+    "conversationThreadId": "AAQkADljMmQ0NmM0LWVmMWYtNDEwNy05ZTFjLWQ3M2NkYmIxOGFiYQMkABAAsf15vnw4PkyPO49J6O9GxRAAsf15vnw4PkyPO49J6O9GxQ==",
+    "priority": 5,
+    "id": "KwBP2oAq0UGL7WVraX6vIZcAAMaJ",
+    "createdBy": {
+      "user": {
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      }
+    },
+    "completedBy": {
+      "user": {
+        "displayName": null,
+        "id": "2a21ff9e-7568-40ba-8664-2feca4ef6431"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {
+      "2a21ff9e-7568-40ba-8664-2feca4ef6431": {
+        "@odata.type": "#microsoft.graph.plannerAssignment",
+        "assignedDateTime": "2022-05-27T11:13:10.1170526Z",
+        "orderHint": "8585479569553761433P&",
+        "assignedBy": {
+          "user": {
+            "displayName": null,
+            "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+          }
+        }
+      }
+    },
+    "_assignments": [
+      {
+        "userId": "2a21ff9e-7568-40ba-8664-2feca4ef6431",
+        "value": {
+          "@odata.type": "#microsoft.graph.plannerAssignment",
+          "assignedDateTime": "2022-05-27T11:13:10.1170526Z",
+          "orderHint": "8585479569553761433P&",
+          "assignedBy": {
+            "user": {
+              "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBAXCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "XdmCY7UA5U21c85rcrJ2B5cAOJQ8",
+    "title": "Change Prozess - SharePoint",
+    "orderHint": "8585524619352918482P8",
+    "assigneePriority": "",
+    "percentComplete": 100,
+    "createdDateTime": "2022-04-05T07:50:10.2013578Z",
+    "hasDescription": false,
+    "previewType": "automatic",
+    "completedDateTime": "2022-05-16T10:58:21.7749289Z",
+    "referenceCount": 0,
+    "checklistItemCount": 0,
+    "activeChecklistItemCount": 0,
+    "priority": 5,
+    "id": "GPxAENPwd0qwnqJzh0xDkpcAPoTP",
+    "createdBy": {
+      "user": {
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      }
+    },
+    "completedBy": {
+      "user": {
+        "displayName": null,
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {
+      "35932dba-428b-4bb9-bddf-5a98768cdada": {
+        "@odata.type": "#microsoft.graph.plannerAssignment",
+        "assignedDateTime": "2022-04-12T13:14:26.8562274Z",
+        "orderHint": "8585518376786995238PD",
+        "assignedBy": {
+          "user": {
+            "displayName": null,
+            "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+          }
+        }
+      }
+    },
+    "_assignments": [
+      {
+        "userId": "35932dba-428b-4bb9-bddf-5a98768cdada",
+        "value": {
+          "@odata.type": "#microsoft.graph.plannerAssignment",
+          "assignedDateTime": "2022-04-12T13:14:26.8562274Z",
+          "orderHint": "8585518376786995238PD",
+          "assignedBy": {
+            "user": {
+              "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBAVCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "XdmCY7UA5U21c85rcrJ2B5cAOJQ8",
+    "title": "Postfächer - (Ticket, Anfragen etc.)",
+    "orderHint": "8585518386466532261PQ",
+    "assigneePriority": "",
+    "percentComplete": 100,
+    "createdDateTime": "2022-04-12T12:58:18.8399786Z",
+    "dueDateTime": "2022-04-29T10:00:00Z",
+    "hasDescription": false,
+    "previewType": "automatic",
+    "completedDateTime": "2022-05-13T07:55:13.4084844Z",
+    "referenceCount": 0,
+    "checklistItemCount": 0,
+    "activeChecklistItemCount": 0,
+    "priority": 5,
+    "id": "E7RHen08nEOkk0oQZblEh5cAKonv",
+    "createdBy": {
+      "user": {
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      }
+    },
+    "completedBy": {
+      "user": {
+        "displayName": null,
+        "id": "cee457d9-3262-4d0e-9a4d-9e9c0bf50b2f"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {
+      "cee457d9-3262-4d0e-9a4d-9e9c0bf50b2f": {
+        "@odata.type": "#microsoft.graph.plannerAssignment",
+        "assignedDateTime": "2022-04-12T12:58:18.8399786Z",
+        "orderHint": "8585518386466532261P;",
+        "assignedBy": {
+          "user": {
+            "displayName": null,
+            "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+          }
+        }
+      }
+    },
+    "_assignments": [
+      {
+        "userId": "cee457d9-3262-4d0e-9a4d-9e9c0bf50b2f",
+        "value": {
+          "@odata.type": "#microsoft.graph.plannerAssignment",
+          "assignedDateTime": "2022-04-12T12:58:18.8399786Z",
+          "orderHint": "8585518386466532261P;",
+          "assignedBy": {
+            "user": {
+              "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBAVCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "XdmCY7UA5U21c85rcrJ2B5cAOJQ8",
+    "title": "Präsentation - Partner LogPoint",
+    "orderHint": "8585547034924593793P7",
+    "assigneePriority": "",
+    "percentComplete": 100,
+    "createdDateTime": "2022-03-10T09:10:53.1119542Z",
+    "dueDateTime": "2022-03-15T10:00:00Z",
+    "hasDescription": false,
+    "previewType": "automatic",
+    "completedDateTime": "2022-05-09T11:24:51.5481212Z",
+    "referenceCount": 0,
+    "checklistItemCount": 0,
+    "activeChecklistItemCount": 0,
+    "priority": 5,
+    "id": "NLpkYeSuUkCFEB1XEnMjHJcADyBH",
+    "createdBy": {
+      "user": {
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      }
+    },
+    "completedBy": {
+      "user": {
+        "displayName": null,
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {
+      "35932dba-428b-4bb9-bddf-5a98768cdada": {
+        "@odata.type": "#microsoft.graph.plannerAssignment",
+        "assignedDateTime": "2022-03-10T09:10:53.1119542Z",
+        "orderHint": "8585547034924593793PQ",
+        "assignedBy": {
+          "user": {
+            "displayName": null,
+            "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+          }
+        }
+      }
+    },
+    "_assignments": [
+      {
+        "userId": "35932dba-428b-4bb9-bddf-5a98768cdada",
+        "value": {
+          "@odata.type": "#microsoft.graph.plannerAssignment",
+          "assignedDateTime": "2022-03-10T09:10:53.1119542Z",
+          "orderHint": "8585547034924593793PQ",
+          "assignedBy": {
+            "user": {
+              "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBAYCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "XdmCY7UA5U21c85rcrJ2B5cAOJQ8",
+    "title": "Mitarbeiter Baseline (Einarbeitungsplan Skill MAtrix)",
+    "orderHint": "8585518388861656017PF",
+    "assigneePriority": "",
+    "percentComplete": 100,
+    "createdDateTime": "2022-04-12T12:54:19.3276041Z",
+    "dueDateTime": "2022-04-29T10:00:00Z",
+    "hasDescription": false,
+    "previewType": "automatic",
+    "completedDateTime": "2022-05-09T10:54:02.0061446Z",
+    "referenceCount": 0,
+    "checklistItemCount": 0,
+    "activeChecklistItemCount": 0,
+    "priority": 5,
+    "id": "sgUVunSyI02WQfSBbH1a_ZcAMOBO",
+    "createdBy": {
+      "user": {
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      }
+    },
+    "completedBy": {
+      "user": {
+        "displayName": null,
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {
+      "35932dba-428b-4bb9-bddf-5a98768cdada": {
+        "@odata.type": "#microsoft.graph.plannerAssignment",
+        "assignedDateTime": "2022-04-12T12:54:26.5246881Z",
+        "orderHint": "8585518388789685206P\\",
+        "assignedBy": {
+          "user": {
+            "displayName": null,
+            "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+          }
+        }
+      }
+    },
+    "_assignments": [
+      {
+        "userId": "35932dba-428b-4bb9-bddf-5a98768cdada",
+        "value": {
+          "@odata.type": "#microsoft.graph.plannerAssignment",
+          "assignedDateTime": "2022-04-12T12:54:26.5246881Z",
+          "orderHint": "8585518388789685206P\\",
+          "assignedBy": {
+            "user": {
+              "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBAWCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "XdmCY7UA5U21c85rcrJ2B5cAOJQ8",
+    "title": "Partner INTARGIA",
+    "orderHint": "8585518388441312263Pm",
+    "assigneePriority": "",
+    "percentComplete": 100,
+    "createdDateTime": "2022-04-12T12:55:01.4401162Z",
+    "dueDateTime": "2022-04-29T10:00:00Z",
+    "hasDescription": false,
+    "previewType": "automatic",
+    "completedDateTime": "2022-05-09T10:53:39.6916515Z",
+    "referenceCount": 0,
+    "checklistItemCount": 0,
+    "activeChecklistItemCount": 0,
+    "priority": 5,
+    "id": "mZi5ADW0EEWcHZaNXr8lt5cALIsY",
+    "createdBy": {
+      "user": {
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      }
+    },
+    "completedBy": {
+      "user": {
+        "displayName": null,
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {
+      "35932dba-428b-4bb9-bddf-5a98768cdada": {
+        "@odata.type": "#microsoft.graph.plannerAssignment",
+        "assignedDateTime": "2022-04-12T12:55:01.4401162Z",
+        "orderHint": "8585518388441312263P#",
+        "assignedBy": {
+          "user": {
+            "displayName": null,
+            "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+          }
+        }
+      }
+    },
+    "_assignments": [
+      {
+        "userId": "35932dba-428b-4bb9-bddf-5a98768cdada",
+        "value": {
+          "@odata.type": "#microsoft.graph.plannerAssignment",
+          "assignedDateTime": "2022-04-12T12:55:01.4401162Z",
+          "orderHint": "8585518388441312263P#",
+          "assignedBy": {
+            "user": {
+              "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBAVCc=\"",
+    "planId": "GH1a-SinAUuhtJEVNpjOipcAFAxa",
+    "bucketId": "XdmCY7UA5U21c85rcrJ2B5cAOJQ8",
+    "title": "Präsentation - Managed SIEM",
+    "orderHint": "8585547036571498901P.",
+    "assigneePriority": "",
+    "percentComplete": 100,
+    "createdDateTime": "2022-03-10T09:08:08.3589421Z",
+    "dueDateTime": "2022-03-11T10:00:00Z",
+    "hasDescription": false,
+    "previewType": "automatic",
+    "completedDateTime": "2022-03-16T10:51:43.7693753Z",
+    "referenceCount": 0,
+    "checklistItemCount": 0,
+    "activeChecklistItemCount": 0,
+    "priority": 5,
+    "id": "JfIaO16tikWXaDcRVps9FJcAFFaP",
+    "createdBy": {
+      "user": {
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      }
+    },
+    "completedBy": {
+      "user": {
+        "displayName": null,
+        "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+      }
+    },
+    "appliedCategories": {},
+    "assignments": {
+      "35932dba-428b-4bb9-bddf-5a98768cdada": {
+        "@odata.type": "#microsoft.graph.plannerAssignment",
+        "assignedDateTime": "2022-03-10T09:08:08.3589421Z",
+        "orderHint": "8585547036571498901PC",
+        "assignedBy": {
+          "user": {
+            "displayName": null,
+            "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+          }
+        }
+      }
+    },
+    "_assignments": [
+      {
+        "userId": "35932dba-428b-4bb9-bddf-5a98768cdada",
+        "value": {
+          "@odata.type": "#microsoft.graph.plannerAssignment",
+          "assignedDateTime": "2022-03-10T09:08:08.3589421Z",
+          "orderHint": "8585547036571498901PC",
+          "assignedBy": {
+            "user": {
+              "id": "35932dba-428b-4bb9-bddf-5a98768cdada"
+            }
+          }
+        }
+      }
+    ]
+  }
+]
